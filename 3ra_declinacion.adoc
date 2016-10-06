@@ -1,0 +1,60 @@
+= Tercera Declinación
+
+== (Temas en consonante y en -i)
+
+=== Genitivo -is
+
+*§30* La Tercera Declinación comprende substantivos y adjetivos de los tres géneros.
+Los nombres de esta declinación se dividen en dos grandes grupos: nombres de tema
+en consonate y nombres de tema en *-i*.
+
+Tabla de Desinencias
+[format="csv", options="header"]
+|===
+,Singular,Plural,,Singular,Plural
+NOMINATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
+VOCATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
+ACUSATIVO,agr**um**,agr**os**,,pulchr**um**,pulchr**os**
+GENITIVO,ag**ri**,agr**orum**,,pulch**ri**,pulchr**orum**
+DATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+ABLATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+|===
+
+*§31* NOMBRES PARISÍLABOS E IMPARISÍLABOS. Se llaman nombres parisílabos los que
+en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:
+
+[source]
+--
+  Nom. hos-tis, Genit. hos-tis
+  Nom. nu-bes, Genit. nu-bis
+  Nom. ma-re, Genit. ma-ris
+--
+
+Nombres imparisílabos son los que en el Genit. sing. tienen una sílaba más que
+en el Nominativo:
+
+[source]
+--
+  Nom. con-sul, Genit. con-su-lis
+  Nom. rex, Genit. re-gis
+  Nom. ci-vi-tas, Genit. si-vi-ta-tis
+--
+
+En general, y salvo las excepciones que se dirán, los nombres de tema en -i son
+parisílabos, e imparisílabos los de tema en consonante.
+
+*§32* DIFERENCIAS EN LA DECLINACIÓN. Los nombres de tema en consonante (imparisílabos)
+tienen en el _Genit. plur._ la terminación *-um*, en el _Nom. Voc. Acus. plur. neutro_, *-a*.
+Los de tema en *-i* (parisílabos) añaden una *i* ante estas terminaciones:
+_Genit. pl._ *-ium*, _Nom. Voc. Acus. pl. neutro_ *-ia*. Además, los adjetivos de
+los dos temas y algunos substantivos de tema en *-i* tienen en el _Ablat. sing._
+*-i* en vez de *-e*.
+
+*§33* REGLA MECÁNICA PARA DECLINAR NOMBRES DE LA TERCERA DECLINACIÓN. Para declinar
+un nombre de la Tercera Declinación hay que conocer la forma de su _Genitivo singular
+(que los diccionarios dan siempre). Se separa de esta forma la desinencia *-is*,
+y a lo que se resta se le añade las terminaciones de los demás casos.
+
+Ej.:
+rex, _rey_, Genit. reg-is, Acus. reg-em, Dat. reg-i, Abl. reg-e, etc.
+homo, _hombre_, Genit. homin-is, Acus. homin-em, Dat. homin-i, Abl. homin-e, etc.
