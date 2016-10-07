@@ -58,3 +58,36 @@ y a lo que se resta se le añade las terminaciones de los demás casos.
 Ej.:
 rex, _rey_, Genit. reg-is, Acus. reg-em, Dat. reg-i, Abl. reg-e, etc.
 homo, _hombre_, Genit. homin-is, Acus. homin-em, Dat. homin-i, Abl. homin-e, etc.
+
+=== Temas en consonante
+
+*§34* La consonante final del tema aparece generalmente ante la terminación
+*-is* del _Genit. sing._, aunque a veces accidentes fonéticos han venido
+a obscurecerla.
+
+*§35* a) Nombre sin desinencia especial en el Nominativo singular:
+
+Paradigmas: consul, genit. consulis, m. _cónsul_;
+nomen, genit. nominis, n. _nombre_; natio, genit. nationis, f. _nación_.
+
+[format="csv", options="header"]
+|===
+,Singular,,
+NOMINATIVO,consul,natio,nomen
+VOCATIVO,consul,natio,nomen
+ACUSATIVO,consul**em**,nation**em**,nomen
+GENITIVO,consul**is**,nation**is**,nomin**is**
+DATIVO,consul**i**,nation**i**,nomin**i**
+ABLATIVO,consul**e**,nation**e**,nomin**e**
+|===
+
+[format="csv", options="header"]
+|===
+,Plural,,
+NOMINATIVO,consul**es**,nation**es**,nomin**a**
+VOCATIVO,consul**es**,nation**es**,nomin**a**
+ACUSATIVO,consul**es**,nation**es**,nomin**a**
+GENITIVO,consul**um**,nation**um**,nomin**um**
+DATIVO,consul**ibus**,nation**ibus**,nomin**ibus**
+ABLATIVO,consul**ibus**,nation**ibus**,nomin**ibus**
+|===
