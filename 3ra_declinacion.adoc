@@ -91,3 +91,24 @@ GENITIVO,consul**um**,nation**um**,nomin**um**
 DATIVO,consul**ibus**,nation**ibus**,nomin**ibus**
 ABLATIVO,consul**ibus**,nation**ibus**,nomin**ibus**
 |===
+
+Forman el Nominativo sing. sin *-s* los temas en líquida (*r, l*): soror, soror-is, f. _hermana_,
+sol, sol-is, m. _sol_, nasal (n): homo, homin-is, m. _hombre_,  pecten, pectin-is, m.
+_peine_, carmen, carmin-is, n. _poema_; además los nombres que el Nominat. terminaban
+en -on perdieron la -n: homo, natio, serno.
+
+*§36* b) Nombres con -s en Nominativo singular.
+
+Substantivos. Paradigmas: *rex*, gent. *reg-is*, m. _rey_; *civitas*, genit. *civitat-is*,
+f. _ciudad_; *corpus*, genit. *corpor-is*, n _cuerpo_.
+
+[cols=",,,",options="header"]
+|================================================
+| 3+|Singular
+|NOMINATIVO|rex|civitas|corpus
+|VOCATIVO|rex||
+|ACUSATIVO|**em**|**em**|
+|GENITIVO|**is**|**is**|**is**
+|DATIVO|**i**|**i**|**i**
+|ABLATIVO|**e**|**e**|**e**
+|================================================
