@@ -1,7 +1,0 @@
-= Indice
-
-include::1_generalidades.adoc[]
-
-include::2_morfologia.adoc[]
-
-include::2da_declinacion.adoc[]
