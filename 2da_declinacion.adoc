@@ -1,8 +1,7 @@
-= Segunda Declinación
+== Segunda Declinación
 
-== (Tema en -o)
-
-=== Genitivo: -i
+=== (Tema en -o)
+Genitivo: -i
 
 . Los nombres de la Segunda Declinación se dividen en tres grupos, atendiendo a la terminación del Nominativo singular:
 +

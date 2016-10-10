@@ -1,4 +1,4 @@
-= Generalidades
+== Generalidades
 
 *§1 LA LENGUA LATINA*.– El Latín fue primitivamente la lengua hablada en el Lacio,
 pequeña comarca de la Italia central, a la orilla izquierda del Tíber. Esta lengua,
