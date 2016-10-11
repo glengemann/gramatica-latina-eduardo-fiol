@@ -96,7 +96,7 @@ sol, sol-is, m. _sol_, nasal (n): homo, homin-is, m. _hombre_,  pecten, pectin-i
 _peine_, carmen, carmin-is, n. _poema_; además los nombres que el Nominat. terminaban
 en -on perdieron la -n: homo, natio, serno.
 
-=== *§36* b) Nombres con -s en Nominativo singular.
+*§36* b) Nombres con -s en Nominativo singular.
 
 Substantivos. Paradigmas: *rex*, gent. *reg-is*, m. _rey_; *civitas*, genit. *civitat-is*,
 f. _ciudad_; *corpus*, genit. *corpor-is*, n _cuerpo_.
@@ -132,7 +132,7 @@ Los temas en -s conservan a veces esta letra en el Nominativo, aunque en los dem
 casos se convierte en -r: honos (tambien honor), honir-is, m. _honor_, https://la.wiktionary.org/wiki/flos[flos], flor-is, m. _flor_,
 corpus, corpor-is, n. _cuerpo_, genus, gener-is, n. _raza_.
 
-=== *§37* IMPARISÍLABOS CON GENITIVO PL. EN -*ium*.
+*§37* IMPARISÍLABOS CON GENITIVO PL. EN -*ium*.
 
 Forman el Genit. pl. en -*ium* a persar de ser imparisílabos:
 
@@ -145,6 +145,10 @@ Forman el Genit. pl. en -*ium* a persar de ser imparisílabos:
 *urbs*, f. _ciudad_ - Gen. sing. urb-is - Gen. pl. urbium +
 *dens*, m. _diente_ - Gen. sing. dent-is - Gen. pl. dentium
 ====
+glans, glandis, f. _bellota_; arx, arcis, f. _ciudadela_, ars, artis, f. _arte_; pars, partis, f. _parte_;
+nox, noctis, f. _noche_; os, ossis, n. _hueso_. Algunos de estos nombres son
+antiguos temas en -i que perdieron esta vocal en el Nom. sing. y se hicieron
+imparisílabos (p. ej. pars de partis)
 +
 . Los gentilicios en -as, -atis y en -is, -itis, como Arpinas, -atis, _arpinense_, gen. pl.
 Arpinatium, Samnis, -itis, _samnita_, gen. pl. Samnitium. Asimismo nostras, -atis, _compatriota nuestro_,
@@ -156,3 +160,38 @@ optimates, _los optimates_, penates, _los dioses familiares_.
 . Algunos monosílabos de vocal larga, como lis, litis, _pleito_ (litium); mus, muris, m.
 _ratón_ (murium); fraus, fraudis, f. _fraude_ (fraudium); faux, faucis, f. _fauce_ (generalmente
 usado en pl. fauces, genit. faucium).
+
+=== Temas en -i
+
+*§38* a) _Masculinos y femeninos_. Los nombres masculinos o femeninos
+de tema en -i hacen el Nom. sing. en -is:  Substantivos: hostis, hostis, m. _enemigo_,
+turris, turris, f. _torre_; adjetivos: brevis, _breve_.
+
+Como éstos se declinan los substantivos terminan en -es (casi todos femeninos):
+nubes, nubis, _nube_, fames, famis, _hambre_, y algunos substantivos y adjetivos Masculinos
+en -er: imber, imbris, _lluvia_, venter, ventris, _vientre_, celer, _rapido_.
+
+Paradigmas. Substantivos: hostis, hostis, m. _enemigo_; nubes, nubis, f. _nubes_;
+imber, imbris, m. _lluvia_. Adjetivos: forbis, _valeroso_, celer, _rápido_.
+
+[cols=",,,",options="header"]
+|================================================
+| 3+|Singular
+|NOMINATIVO|||
+|VOCATIVO|||
+|ACUSATIVO|**em**|**em**|**em**
+|GENITIVO|**ĭs**|**ĭs**|**ĭs**
+|DATIVO|**ī**|**ī**|**ī**
+|ABLATIVO|**ĕ**|**ĕ**|**ĕ**
+|================================================
+
+[cols=",,,",options="header"]
+|================================================
+| 3+|Plural
+|NOMINATIVO|**ēs**|**ēs**|**ēs**
+|VOCATIVO|**ēs**|**ēs**|**ēs**
+|ACUSATIVO|**ēs**|**ēs**|**ēs**
+|GENITIVO|**ium**|**ium**|**ium**
+|DATIVO|**ĭbus**|**ĭbus**|**ĭbus**
+|ABLATIVO|**ĭbus**|**ĭbus**|**ĭbus**
+|================================================
