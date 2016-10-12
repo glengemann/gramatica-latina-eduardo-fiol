@@ -1,17 +1,17 @@
 == Generalidades
 
-*§1 LA LENGUA LATINA*.– El Latín fue primitivamente la lengua hablada en el Lacio,
+[paragrafo]#*§1 LA LENGUA LATINA*#.– El Latín fue primitivamente la lengua hablada en el Lacio,
 pequeña comarca de la Italia central, a la orilla izquierda del Tíber. Esta lengua,
 junto con otros dialectos como el osco y el umbro, formaba la rama itálica de la
 gran familia de lenguas indoeuropeas que se extendió por toda Europa y parte del
 Asia, y cuyos otros principales representantes son el sánscrito, el iranio, el
 griego, el eslavo, el báltico, el germánico y el celta.
 
-*§2 EL ALFABETO LATINO*.–  El alfabeto latino, derivado de un alfabeto griego, es, esencialmente, el mismo que el español. Hacia el siglo I de nuestra era constaba de los 23 signos siguientes:
+[paragrafo]#*§2 EL ALFABETO LATINO*#.–  El alfabeto latino, derivado de un alfabeto griego, es, esencialmente, el mismo que el español. Hacia el siglo I de nuestra era constaba de los 23 signos siguientes:
 
-*§3 VOCALES*.–  Las vocales latinas son cinco, como en catellano:
+[paragrafo]#*§3 VOCALES*#.–  Las vocales latinas son cinco, como en catellano:
 
-*§4 DIPTONGOS*.–  En latín se encuentran los diptongos siguientes: ae, au, oe y menos frecuentes, ei, eu, ui.
+[paragrafo]#*§4 DIPTONGOS*#.–  En latín se encuentran los diptongos siguientes: ae, au, oe y menos frecuentes, ei, eu, ui.
 
 *§5 CONSONANTES*.–  Las consonantes latinas se clasifican del modo siguiente:
 
@@ -20,3 +20,9 @@ griego, el eslavo, el báltico, el germánico y el celta.
 *§7 CANTIDAD*.–
 
 *§8 ACENTO*.–  Para el acento prosódico latino, valen las siguients reglas:
+
+[paragrafo]#§9#
+
+[paragrafo]#§10#
+
+[paragrafo]#§11#

@@ -21,7 +21,7 @@ s| ABLATIVO 2+| -ĕ, -ī 2+| -ībus
 |===
 
 
-*§31* NOMBRES PARISÍLABOS E IMPARISÍLABOS. Se llaman nombres parisílabos los que
+[paragrafo]#*§31* NOMBRES PARISÍLABOS E IMPARISÍLABOS#. Se llaman nombres parisílabos los que
 en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:
 
 [NOTE]

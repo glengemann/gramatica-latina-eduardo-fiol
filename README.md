@@ -4,7 +4,7 @@
 
 asciidoctor -d book 2da_declinacion.adoc
 
-asciidoctor -a stylesheet=gramatica.css -a stylesdir=../asciidoctor-stylesheet-factory/stylesheets indice.adoc -d book
+asciidoctor -a stylesheet=gramatica.css -a stylesdir=../asciidoctor-stylesheet-factory/stylesheets gramatica-latina-eduardo-fiol.adoc 
 
 ## PDF
 
