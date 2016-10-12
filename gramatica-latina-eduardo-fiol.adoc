@@ -4,7 +4,9 @@ Eduardo Valentí Fiol (†)
 // Configuración
 //:media: prepress
 :doctype: book
-[abstract]
+
+:toc:
+
 Edición solo de uso educativo sin fin de lucro.
 
 include::1_generalidades.adoc[]
@@ -14,3 +16,7 @@ include::2_morfologia.adoc[]
 include::2da_declinacion.adoc[]
 
 include::3ra_declinacion.adoc[]
+
+include::_adjetivo.adoc[]
+
+include::_uso_casos.adoc[]
