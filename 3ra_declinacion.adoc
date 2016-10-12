@@ -1,28 +1,30 @@
 == Tercera Declinación
 
 === (Temas en consonante y en -i)
-Genitivo -is
+*Genitivo -is*
 
 *§30* La Tercera Declinación comprende substantivos y adjetivos de los tres géneros.
 Los nombres de esta declinación se dividen en dos grandes grupos: nombres de tema
 en consonate y nombres de tema en *-i*.
 
-Tabla de Desinencias
-[format="csv", options="header"]
+.Tabla de Desinencias
+[cols="^,^,^,^,^",]
 |===
-,Singular,Plural,,Singular,Plural
-NOMINATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
-VOCATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
-ACUSATIVO,agr**um**,agr**os**,,pulchr**um**,pulchr**os**
-GENITIVO,ag**ri**,agr**orum**,,pulch**ri**,pulchr**orum**
-DATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
-ABLATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+.2+| 2+h| Singular 2+h| Plural
+h| Masc. Fem. h| Netro h| Masc. Fem. h| Neutro
+s| NOMINATIVO | -- , s | -- | -ēs | -ă, -iă
+s| VOCATIVO | -- , s | -- | -ēs | -ă, -iă
+s| ACUSATIVO | -em | -- | -ēs | -ă, -iă
+s| GENITIVO 2+| -ĭs 2+| -um, -ium
+s| DATIVO 2+| -ī 2+| -ĭbus
+s| ABLATIVO 2+| -ĕ, -ī 2+| -ībus
 |===
+
 
 *§31* NOMBRES PARISÍLABOS E IMPARISÍLABOS. Se llaman nombres parisílabos los que
 en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:
 
-[source]
+[NOTE]
 --
   Nom. hos-tis, Genit. hos-tis
   Nom. nu-bes, Genit. nu-bis
@@ -32,7 +34,7 @@ en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs
 Nombres imparisílabos son los que en el Genit. sing. tienen una sílaba más que
 en el Nominativo:
 
-[source]
+[NOTE]
 --
   Nom. con-sul, Genit. con-su-lis
   Nom. rex, Genit. re-gis
@@ -174,24 +176,56 @@ en -er: imber, imbris, _lluvia_, venter, ventris, _vientre_, celer, _rapido_.
 Paradigmas. Substantivos: hostis, hostis, m. _enemigo_; nubes, nubis, f. _nubes_;
 imber, imbris, m. _lluvia_. Adjetivos: forbis, _valeroso_, celer, _rápido_.
 
-[cols=",,,",options="header"]
-|================================================
-| 3+|Singular
-|NOMINATIVO|||
-|VOCATIVO|||
-|ACUSATIVO|**em**|**em**|**em**
-|GENITIVO|**ĭs**|**ĭs**|**ĭs**
-|DATIVO|**ī**|**ī**|**ī**
-|ABLATIVO|**ĕ**|**ĕ**|**ĕ**
-|================================================
+.Substantivos Singular
+[cols="^,^,^,^",options="header"]
+|===
+| 3+| Singular
+s| NOMINATIVO .2+.^| hostis .2+.^| nubes .2+.^| imber
+s| VOCATIVO
+s| ACUSATIVO | host**em** | nub**em** | imbr**em**
+s| GENITIVO | host**ĭs** | nub**ĭs** | imbr**ĭs**
+s| DATIVO | host**ī** | nub**ī** | imbr**ī**
+s| ABLATIVO | host**ĕ** | nub**ĕ** | imbr**ĕ**
+|===
 
-[cols=",,,",options="header"]
-|================================================
-| 3+|Plural
-|NOMINATIVO|**ēs**|**ēs**|**ēs**
-|VOCATIVO|**ēs**|**ēs**|**ēs**
-|ACUSATIVO|**ēs**|**ēs**|**ēs**
-|GENITIVO|**ium**|**ium**|**ium**
-|DATIVO|**ĭbus**|**ĭbus**|**ĭbus**
-|ABLATIVO|**ĭbus**|**ĭbus**|**ĭbus**
-|================================================
+.Substantivos Plural
+[cols="^,^,^,^",options="header"]
+|===
+| 3+| Plural
+s| NOMINATIVO .3+.^| host**ēs** .3+.^| nub**es** .3+.^| imb**ēr**
+s| VOCATIVO
+s| ACUSATIVO
+s| GENITIVO | host**ium** | nub**ium** | imbr**ium**
+s| DATIVO .2+.^| host**ĭbus** .2+.^| nub**ĭbus** .2+.^| imbr**ĭbus**
+s| ABLATIVO
+|===
+
+.Adjetivos
+[cols="^,^,^,^,^",options="header"]
+|===
+| 2+| Singular 2+| Plural
+| NOMINATIVO .2+.^| fort**ĭs** .2+.^| cel**er** .2+.^| fort**ēs** .2+.^| celĕr**ēs**
+| VOCATIVO
+| ACUSATIVO | fort**em** | celĕr**em**| fort**ēs** | celĕr**ēs**
+| GENITIVO | fort**ĭs** | celĕr**ĭs** | forti**um** | celĕr**ium**
+| DATIVO | fort**ī** | celĕr**ī** | fort**ĭbus** | celĕr**ĭbus**
+| ABLATIVO | fort**ī** | celĕr**ī** | fort**ĭbus** | celĕr**ĭbus**
+|===
+
+Observación: Nótese, en los adjetivos, el Ablat. sing. en *-ī*.
+
+.Table A
+[options="header", width="40%", float="right"]
+|===
+| Ta | Tb | Tc | Td | Te
+| a | b | c | d | e
+| aa | bbbb | cccc | dd | eee
+|===
+
+.Table B
+[options="header", width="40%", float="left"]
+|===
+| Ta | Tb | Tc | Td | Te
+| a | b | c | d | e
+| aaa | bbbb | ccc | ddd | eeee
+|===

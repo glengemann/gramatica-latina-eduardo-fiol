@@ -9,3 +9,7 @@ asciidoctor -a stylesheet=gramatica.css -a stylesdir=../asciidoctor-stylesheet-f
 ## PDF
 
 asciidoctor-pdf -a pdf-style=default-theme.yml gramatica-latina-eduardo-fiol.adoc
+
+## EPUB
+
+$ asciidoctor-epub3 gramatica-latina-eduardo-fiol.adoc -D epub

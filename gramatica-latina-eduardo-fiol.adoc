@@ -1,5 +1,4 @@
-= Gramática De La Lengua Latina
-Morfología y Nociones de Sintaxis
+= Gramática De La Lengua Latina: Morfología y Nociones de Sintaxis
 Eduardo Valentí Fiol (†)
 // Configuración
 //:media: prepress
