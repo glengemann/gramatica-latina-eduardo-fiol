@@ -1,0 +1,25 @@
+= Gramática Latina
+
+== Morfología y Nociones de Sintaxis
+
+_Eduaardo Valentí Fiol_
+
+== ADVERTENCIA PRELIMINAR
+
+En nuestro PRIMER LIBRO DE LATÍN(1) intentamos ofrecer una solución a las
+especiales dificultades que la enseñanza de esta lengua ofrece en el primer
+curso del bachillerato, dificultades procedentes ante todo del escaso desarrollo
+intelectual de los alumnos. Nos propusimos allí, dar del latín una idea
+elementalísima, pero orgánica y completa, que facilitara desde el primer día la
+traducción y evitara la presentación de paradigmas abstractos y carentes de
+aplicación inmediata. La morfología regular y una sintaxis en embrión, reducida
+a las reglas esenciales de la oración simple, nos bastaban para lanzar al alumno
+a la traducción de lecturas graduadas sobre asuntos de la historia hispanorromana
+o fábulas prosificadas e incluso para iniciarle en los secretos de la composición
+latina.
+
+include::1_generalidades.adoc[]
+
+include::2_morfologia.adoc[]
+
+include::2da_declinacion.adoc[]
