@@ -113,11 +113,53 @@ quartus (pr. quartus), queror, (pr. cuéror), sanguis (pr. sanguis).
 
 *§7 CANTIDAD*.–
 
+a. _De las vocales_. El latín distingue entre vocales largas y breves, según
+el tiempo que se tarde en pronunciarlas.
++
+* La cantidad larga de una vocal se indica por medio del signo ¯
+colocado encima de ella:
++
+ ā ē ī ō ū
++
+* La cantidad breve, por medio del signo ˘ :
++
+ ă ĕ ĭ ŏ ŭ
+
+b. _De las sílabas_.
++
+* Una sílaba es larga en los tres casos siguientes:
++
+. Cuando contiene una vocal larga:
++
+ ē-rā-dī-co, rē-mus
++
+. Cuando contiene un diptongo:
++
+ caelum, proe-lium, lau-do
++
+. Cuando su vocal aunque breve va seguida de dos consonantes:
++
+ ter-ra, pul-cher
++
+* Una sílaba es breve cuando lo es su vocal y ésta no va seguida de dos
+consonantes:
++
+ dŏ-mĭ-nus, cĕ-lĕ-rĭ-tas
+
 *§8 ACENTO*.–
-Para el acento prosódico latino, valen las siguients reglas:
+Para el acento prosódico latino valen las siguientes reglas:
 
-[paragrafo]#§9#
+. Los monosílabos son acentuados, excepto las preposiciones, conjunciones y
+enclíticas. Ejemplos: _réx_, _rús_, _et vóx_, _cum spé_, _populús-que_.
 
-[paragrafo]#§10#
+. Los bisílabos se acentúan en la primera sílaba. Ejemplos: _cór-pus_, _á-mo_,
+_só-ror_.
 
-[paragrafo]#§11#
+. Los polisílabos se acentúan en la penúltima sílaba, si ésta es larga.
+Ejemplos: a-mī-cus, prae-ter-mit-to, aes-ti-mā-re.
++
+Si la penúltima es breve, el acento cae sobre la antepenúltima. Ejemplos:
+do-mĭ-nus, pár-vŭ-lus, dú-cĕ-re.
+
+. Cuando a una palabra se une una enclíca, el acento cae en la sílaba que
+precede a la enclítica. Ejemplos: Senatus populús-que, páter matér-ve.
