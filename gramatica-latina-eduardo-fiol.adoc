@@ -8,6 +8,8 @@ Eduardo Valentí Fiol (†)
 
 Edición solo de uso educativo sin fin de lucro.
 
+include::0_advertencia.adoc[]
+
 include::1_generalidades.adoc[]
 
 include::2_morfologia.adoc[]
