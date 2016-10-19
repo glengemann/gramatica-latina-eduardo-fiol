@@ -19,3 +19,5 @@ include::3ra_declinacion.adoc[]
 include::_adjetivo.adoc[]
 
 include::_uso_casos.adoc[]
+
+include::_conjuncion.adoc[]
