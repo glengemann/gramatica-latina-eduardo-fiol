@@ -13,7 +13,6 @@ include::0_advertencia.adoc[]
 include::1_generalidades.adoc[]
 
 include::2_morfologia.adoc[]
-
 include::3_1ra_declinacion.adoc[]
 
 include::2da_declinacion.adoc[]
@@ -21,8 +20,6 @@ include::2da_declinacion.adoc[]
 include::3ra_declinacion.adoc[]
 
 include::_adjetivo.adoc[]
-
-include::_oracion_partes.adoc[]
 
 include::_uso_casos.adoc[]
 

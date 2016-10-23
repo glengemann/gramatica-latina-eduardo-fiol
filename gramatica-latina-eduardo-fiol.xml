@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<book lang="en">
+<bookinfo>
+    <title>Gramática De La Lengua Latina: Morfología y Nociones de Sintaxis</title>
+    <author>
+        <firstname>Eduardo Valentí Fiol (†)</firstname>
+    </author>
+    <authorinitials>E</authorinitials>
+</bookinfo>
+<preface>
+<title></title>
+<simpara>Edición solo de uso educativo sin fin de lucro.</simpara>
+</preface>
+<chapter id="_advertencia_preliminar">
+<title>Advertencia Preliminar</title>
+<simpara>En nuestro  <emphasis>Primer Libro de Latín</emphasis> <footnote><simpara><emphasis>Primer Libro de Latín</emphasis>. Barcelona, 1941. Bosch, casa editorial.</simpara></footnote>
+intentamos ofrecer una solución a las especiales
+dificultades que la enseñanza de esta lengua ofrece en el primer curso del bachillerato,
+dificultades procedentes ante todo del escaso desarrollo intelectual de los alumnos.
+Nos propusimos allí, dar del latín una idea elementalísima, pero orgánica y completa,
+que facilitara desde el primer día la traducción y evitara la presentación de paradigmas
+abstractos y carentes de aplicación inmediata. La morfología regular y una sintaxis
+en embrión, reducida a las reglas esenciales de la oración simple, nos bastaban para
+lanzar al alumno a la traducción de lecturas graduadas sobre asuntos de la historia
+hispanorromana o fábulas prosificadas e incluso para iniciarle en los secretos de la
+composición latina.</simpara>
+<simpara>La presente gramática va dirigida en cambio a alumnos que posean ya un conocimiento
+rudimentario de la lengua latina o cuya edad haga innecesaria una dosificación demasiado
+lenta. Puede usarse, por tanto, a partir del segundo curso y contiene una morfología
+lo bastante completa para que el estudiante pueda utilizarla en todo el curso del
+actual bachillerato.</simpara>
+<simpara>Hemos seguido el criterio del Cuestionario oficial, con el que está de acuerdo nuestra
+experiencia, de prescindir de toda explicación de lingüística histórica. Creemos firmemente
+que, si bien pueden en ocasiones ser oportunas explicaciones de este género, deben quedar
+siempre a la libre iniciativa del profesor, quien sabrá no sólo dosificarlas, sino distinguir
+qué parte de la clase está capacitada para asimilarlas. En el texto, en cambio, no sería
+sino una ineficaz complicación añadida a un estudio ya en sí nada fácil.</simpara>
+<simpara>Por otra parte sostenemos que el estudio de las reglas sintácticas debe iniciarse desde
+los primeros pasos. Para ello, nada mejor que prescindir de una división artificial
+entre Morfología y Sintaxis, intercalando las reglas de ésta a medida que el estudio
+de las formas ofrece ocasión para ello. Así lo hemos hecho en este libro y en los
+capítulos finales hemos completado y sistematizado de un modo rudimentario los
+conocimientos previamente adquiridos. De esta forma el alumno, en posesión de las
+categorías sintácticas fundamentales y de los más importantes usos de la lengua, estará
+en disposición de adentrarse, en los cursos superiores, en el estudio de una Sintaxis completa.</simpara>
+<simpara>Otro de nuestros principios es que cada lección vaya acompañada de los correspondientes
+ejercicios. No basta una Antología; conviene que cada regla esté ejemplificada por un
+número suficiente de ejercicios, tanto de traducción al castellano, como de versión
+al latín. Para no aumentar exageradamente el volumen y facilitar mejor la gradación,
+hemos impreso los ejercicios aparte<footnote><simpara><emphasis>Ejercicios Latinos</emphasis>. Primer grado. Barcelona. 1943. Bosch, casa editorial.</simpara></footnote>,
+divididos en lecciones y con referencia
+a los párrafos de la Gramática. Finalmente hemos aplicado una especial atención a
+la presentación tipográfica, cuidando de que ésta fuera clara y variada. Los párrafos
+en letra pequeña, pueden reservarse, según criterio del profesor, para cursos más
+avanzados o discípulos más aventajados.</simpara>
+<simpara>EL AUTOR</simpara>
+<simpara>Barcelona, abril 1943.</simpara>
+</chapter>
+<chapter id="_generalidades">
+<title>Generalidades</title>
+<simpara><phrase role="paragrafo"><emphasis role="strong">§1 LA LENGUA LATINA</emphasis></phrase>.–
+El Latín fue primitivamente la lengua hablada en el Lacio,
+pequeña comarca de la Italia central, a la orilla izquierda del Tíber. Esta lengua,
+junto con otros dialectos como el osco y el umbro, formaba la rama itálica de la
+gran familia de lenguas indoeuropeas que se extendió por toda Europa y parte del
+Asia, y cuyos otros principales representantes son el sánscrito, el iranio, el
+griego, el eslavo, el báltico, el germánico y el celta.</simpara>
+<simpara>Las armas romanas hicieron la fortuna del latín. La ciudad de Roma, que empezó siendo
+hacia el siglo VIII antes de Jesucristo un pequeño pueblo de agricultores, se convirtió
+pronto en capital del Lacio y extendió después su autoridad sobre toda la península italiana.
+Las guerras con Cartago le dieron el dominio sobre el Mediterráneo occidental, España, Norte
+de África y costas meridionales de Francia. Los países de la parte oriental del Mediterráneo
+no tardaron en caer bajo la influencia del nuevo poder y pronto se convirtieron en provincial romanas.</simpara>
+<simpara>En el siglo I antes de J.C. Roma, convertida en cabeza de un Imperio Mundial, se dio
+las instituciones adecuadas a su nueva función. El régimen imperial fue establecido
+en sus líneas esenciales por Julio César y su sucesor Augusto. En aquel tiempo el
+Imperio se extendía sobre lo que hoy son lo países siguientes: Italia, España y Portugal,
+Francia, Gran Bretaña, Bélgica, provincias alemanas del Rin, Bohemia, Suiza, países
+danubianos de la Europa Central, península balcánica, Asía Menor, Siria, Palestina,
+Egipto y costa mediterránea del África.</simpara>
+<simpara>La lengua oficial de este Imperio era el latín, que paulatinamente fue suplantando
+las viejas lenguas indígenas; pero en los países orientales del Mediterráneo dominaba
+el griego, que por su alta significación como lengua de cultura, pudo resistir
+ventajosamente a la expansión del idioma romano.</simpara>
+<simpara>En estas regiones el latín fue evolucionando lentamente y adaptándose a las particularidades
+lingüísticas de cada una de ellas. Al romperse la unidad del Imperio ante el empuje
+de los pueblos nórdicos, desapareció el principal sostén de la unidad lingüística
+y se hizo posible la aparición de un sinnúmero de dialectos que con el tiempo habían
+de convertirse en las lenguas romances modernas.</simpara>
+<simpara>Nuestra lengua española no es más que la lengua imperial de Roma modificada por
+el genio particular de nuestro pueblo y por las diversas influencias que desde
+entonces se han ejercido en nuestro país.</simpara>
+<simpara>Estudiar el latín es, pues, a la vez estudiar el idioma de nuestros antepasados,
+la fuente de nuestra lengua actual, y el lazo de parentesco que la une con las
+demás lenguas modernas del Occidente de Europa, especialmente el portugués, el francés,
+el italiano, y en cierta medida, el inglés. Es además estudiar el vehículo de la
+cultura europea moderna y el medio de que se ha valido durante siglos la Iglesia
+Romana y se vale todavía para ejercer su autoridad y definir su doctrina.</simpara>
+<simpara><phrase role="paragrafo"><emphasis role="strong">§2 EL ALFABETO LATINO</emphasis></phrase>.–
+El alfabeto latino, derivado de un alfabeto griego, es, esencialmente, el mismo
+que el español. Hacia el siglo I de nuestra era constaba de los 23 signos siguientes:</simpara>
+<literallayout class="monospaced">A B C D E F G H I K L M N O P Q R S T V X Y Z
+a b c d e f g h i k l m n o p q r s t v x y z</literallayout>
+<simpara>En muchas ediciones modernas de textos latinos se usa además la j para designar
+el sonido de la i consonante; ejemplos: juvenis, jam. También suelen distiguirse
+los dos valores de la u, escribiendo v cuando es consonante, como en video y u
+cuando vocal, como en unda. Nosostros mantendremos el signo i para los dos sonidos,
+vocálico y consonante, pero distinguiremos, para evitar confusiones, entre u vocal
+y v consonante.</simpara>
+<simpara><phrase role="paragrafo"><emphasis role="strong">§3 VOCALES</emphasis></phrase>.–
+Las vocales latinas son cinco, como en castellano:</simpara>
+<literallayout class="monospaced">a e i o u</literallayout>
+<simpara>Su pronunciación es sensiblemente la misma que en nuestra lengua. Las vocales i,
+u, ante otra vocal y formando sílaba con ella, tienen valor consonantico. Cuando
+u sea consonante, la escribiremos v.</simpara>
+<simpara><phrase role="paragrafo"><emphasis role="strong">§4 DIPTONGOS</emphasis></phrase>.–
+En latín se encuentran los diptongos siguientes: ae, au, oe y menos frecuentes,
+ei, eu, ui.</simpara>
+<simpara>Ae, oe se escriben a veces æ, œ y en latín vulgar y tardío se pronunciaban e;
+ejemplos: rosae (rose), proelium (prelium). Para mantener el uso clásico hay que
+pronunciar muy rápidamente la e, con el objeto de formar una sola sílaba.</simpara>
+<simpara><emphasis role="strong">§5 CONSONANTES</emphasis>.–
+Las consonantes latinas se clasifican del modo siguiente:</simpara>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Consonantes</title>
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<thead>
+<row>
+<entry align="center" valign="top" namest="col_1" nameend="col_2"> </entry>
+<entry align="center" valign="top"> Labiales </entry>
+<entry align="center" valign="top"> Dentales </entry>
+<entry align="center" valign="top"> Guturales</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="middle" morerows="1"><simpara>Oclusivas</simpara></entry>
+<entry align="center" valign="top"><simpara>Sordas</simpara></entry>
+<entry align="center" valign="top"><simpara>p</simpara></entry>
+<entry align="center" valign="top"><simpara>t</simpara></entry>
+<entry align="center" valign="top"><simpara>c, k, q</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>Sonoras</simpara></entry>
+<entry align="center" valign="top"><simpara>b</simpara></entry>
+<entry align="center" valign="top"><simpara>d</simpara></entry>
+<entry align="center" valign="top"><simpara>g</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top" namest="col_1" nameend="col_2"><simpara>Nasales</simpara></entry>
+<entry align="center" valign="top"><simpara>m</simpara></entry>
+<entry align="center" valign="top"><simpara>n</simpara></entry>
+<entry align="center" valign="top"><simpara></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top" namest="col_1" nameend="col_2"><simpara>Fricativas</simpara></entry>
+<entry align="center" valign="top"><simpara>f</simpara></entry>
+<entry align="center" valign="top"><simpara>s, z</simpara></entry>
+<entry align="center" valign="top"><simpara></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top" namest="col_1" nameend="col_2"><simpara>Líquedas</simpara></entry>
+<entry align="center" valign="top"><simpara></simpara></entry>
+<entry align="center" valign="top"><simpara>l, r</simpara></entry>
+<entry align="center" valign="top"><simpara></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpara>h que primitivamente marcaba una aspiración, perdió pronto, como en castellano,
+todo valor fonético.</simpara>
+<simpara>x es una letra doble que puede representar cs o gs.</simpara>
+<simpara><emphasis role="strong">§6 PRONUNCIACIÓN DE LAS CONSONANTES</emphasis>.–
+Se pronuncian en general como las castellanas, pero si se quiere mantener, en lo
+posible, la pronunciación clásica, deben tenerse en cuenta las particularidades siguientes:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+c, g ante e, i se pronuncian del mismo modo que ante a, o, u; ejemplos:
+Cícero (pr. quíquero), genus (pr. guenus), agito (pr. águito).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+ll se pronuncia como dos eles, ejemplos: ille (pr. il-le), vallum (pr. val-lum).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Después de q y g la u se pronuncia siempre, con un sonido rápido; ejemplos:
+quartus (pr. quartus), queror, (pr. cuéror), sanguis (pr. sanguis).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+ch se pronuncia como c sencilla; ejemplos: pulcher (pr. pulcher), machina (pr. máquina).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+z equivale al sonido ds; ejemplos: gaza (pr. gadsa), Zama (pr. dsama).
+</simpara>
+</listitem>
+</orderedlist>
+<simpara><emphasis role="strong">§7 CANTIDAD</emphasis>.–</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>
+<emphasis>De las vocales</emphasis>. El latín distingue entre vocales largas y breves, según
+el tiempo que se tarde en pronunciarlas.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+La cantidad larga de una vocal se indica por medio del signo ¯
+colocado encima de ella:
+</simpara>
+<literallayout class="monospaced">ā ē ī ō ū</literallayout>
+</listitem>
+<listitem>
+<simpara>
+La cantidad breve, por medio del signo ˘ :
+</simpara>
+<literallayout class="monospaced">ă ĕ ĭ ŏ ŭ</literallayout>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<emphasis>De las sílabas</emphasis>.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Una sílaba es larga en los tres casos siguientes:
+</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Cuando contiene una vocal larga:
+</simpara>
+<literallayout class="monospaced">ē-rā-dī-co, rē-mus</literallayout>
+</listitem>
+<listitem>
+<simpara>
+Cuando contiene un diptongo:
+</simpara>
+<literallayout class="monospaced">caelum, proe-lium, lau-do</literallayout>
+</listitem>
+<listitem>
+<simpara>
+Cuando su vocal aunque breve va seguida de dos consonantes:
+</simpara>
+<literallayout class="monospaced">ter-ra, pul-cher</literallayout>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>
+Una sílaba es breve cuando lo es su vocal y ésta no va seguida de dos
+consonantes:
+</simpara>
+<literallayout class="monospaced">dŏ-mĭ-nus, cĕ-lĕ-rĭ-tas</literallayout>
+</listitem>
+</itemizedlist>
+</listitem>
+</orderedlist>
+<simpara><emphasis role="strong">§8 ACENTO</emphasis>.–
+Para el acento prosódico latino valen las siguientes reglas:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Los monosílabos son acentuados, excepto las preposiciones, conjunciones y
+enclíticas. Ejemplos: <emphasis>réx</emphasis>, <emphasis>rús</emphasis>, <emphasis>et vóx</emphasis>, <emphasis>cum spé</emphasis>, <emphasis>populús-que</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Los bisílabos se acentúan en la primera sílaba. Ejemplos: <emphasis>cór-pus</emphasis>, <emphasis>á-mo</emphasis>,
+<emphasis>só-ror</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Los polisílabos se acentúan en la penúltima sílaba, si ésta es larga.
+Ejemplos: a-mī-cus, prae-ter-mit-to, aes-ti-mā-re.
+</simpara>
+<simpara>Si la penúltima es breve, el acento cae sobre la antepenúltima. Ejemplos:
+do-mĭ-nus, pár-vŭ-lus, dú-cĕ-re.</simpara>
+</listitem>
+<listitem>
+<simpara>
+Cuando a una palabra se une una enclíca, el acento cae en la sílaba que
+precede a la enclítica. Ejemplos: Senatus populús-que, páter matér-ve.
+</simpara>
+</listitem>
+</orderedlist>
+</chapter>
+<chapter id="_morfologia">
+<title>Morfologia</title>
+<simpara><emphasis role="strong">§9</emphasis> PARTES DE LA ORACIÓN.–  Las partes de la oración en latín son ocho: sustantivo,
+adjetivo, pronombre, verbo, adverbio, preposición, conjunción e interjección.</simpara>
+<simpara>Las partes de la oración se dividen en variables e invariables. Son variables:
+sustantivo, adjetivo, pronombre y verbo.</simpara>
+<simpara>Son invariables: adverbio, preposición, conjunción e interjección.</simpara>
+<simpara>El latín carece de artículo, y en la traducción al castellano hay que suplirlo.
+El sentido nos indicará en cada caso si debemos usar el artículo definido o el
+indefinido. Así <emphasis role="strong">rosa</emphasis> deberá traducirse, según los casos, <emphasis role="strong">la rosa</emphasis> o <emphasis role="strong">una rosa</emphasis>;
+amici, <emphasis role="strong">los amigos</emphasis> o <emphasis role="strong">unos amigos</emphasis>.</simpara>
+<simpara><emphasis role="strong">§10</emphasis> GÉNEROS.–  El latín posee tres géneros: <emphasis role="strong">masculino, femenino y neutro</emphasis>.</simpara>
+<simpara>En general son masculinos los nombres de varón y oficio de varón, pueblos, ríos,
+vientos y meses.</simpara>
+<simpara>Son femeninos los de mujer y oficios de mujer, árboles, ciudades, países e islas.</simpara>
+<simpara>Los nombres neutros que por lo común se refieren a cosas inanimadas, suelen
+distinguirse de los demás por terminaciones especiales.</simpara>
+<simpara><emphasis role="strong">§11</emphasis> NÚMERO.–  Las palabras variables tienen en latín dos números, como en
+castellano, <emphasis>singular y plural</emphasis>.</simpara>
+<simpara><emphasis role="strong">§12</emphasis> CASOS.– Las distintas funciones que un nombre puede desempeñar en la oración,
+que en castellano se expresan por medio de preposiciones, en latín se indican
+mediante terminaciones distintas, llamadas desinencias. Las formas que revisten
+los nombres al tomar las distintas desinencias, se llaman <emphasis>casos</emphasis>. El nombre latino
+tiene seis casos:</simpara>
+<simpara><emphasis role="strong">Nominativo, Vocativo, Acusativo, Genitivo, Dativo y Ablativo.</emphasis></simpara>
+<simpara><emphasis role="strong">§13</emphasis> LA DECLINACIÓN.–  El conjunto de los seis casos en que un nombre puede
+encontrarse, tanto en singular como en plural, recibe el nombre de <emphasis>declinación</emphasis>.</simpara>
+<simpara><emphasis role="strong">§14</emphasis> TEMA, RAÍZ.–  Lo que queda de un nombre al separar de él las desinencias de
+caso recibe el nombre de <emphasis>tema</emphasis>. Así <emphasis role="strong">rosa</emphasis>-, <emphasis role="strong">domino</emphasis>-, <emphasis role="strong">leg</emphasis>-, <emphasis role="strong">navi</emphasis>-, <emphasis role="strong">curru</emphasis>-,
+<emphasis role="strong">die</emphasis>- son temas de <emphasis role="strong">rosa</emphasis>, <emphasis role="strong">dominus</emphasis>, <emphasis role="strong">lex</emphasis>, <emphasis role="strong">navis</emphasis>, <emphasis role="strong">currus</emphasis>, <emphasis role="strong">dies</emphasis>, respectivamente.</simpara>
+<simpara><emphasis role="strong">Raíz</emphasis> es lo que queda de una palabra una vez se ha separado de ella todos los prefijos
+y sufijos; suele ser común a una familia de palabras, y es el elemento portador
+del sentido fundamental de éstas. Así <emphasis role="strong">am</emphasis>- es la raíz de todo el grupo <emphasis role="strong">amo</emphasis>,
+<emphasis role="strong">amor</emphasis>, <emphasis role="strong">amicitia</emphasis>, <emphasis role="strong">amator</emphasis>, <emphasis role="strong">amicus</emphasis>, etc.</simpara>
+<simpara><emphasis role="strong">§15</emphasis> LAS CINCO DECLINACIONES.–  Ya primitivamente para un caso dado no siempre
+había una sola desinencia. Pero sobre todo, al  unirse la desinencia a la última
+letra del tema, se produjeron una serie de fenómenos fonéticos que terminaron por
+romper la antigua unidad de la declinación. Así nacieron las cinco declinaciones
+latinas, que nosotros distinguimos por la desinencia del Genitivo singular:</simpara>
+<note><simpara>1ra Declinación: Genitivo singular: -<emphasis role="strong">ae</emphasis><?asciidoc-br?>
+2da Declinación: Genitivo singular: -<emphasis role="strong">i</emphasis><?asciidoc-br?>
+3ra Declinación: Genitivo singular: -<emphasis role="strong">is</emphasis><?asciidoc-br?>
+4ta Declinación: Genitivo singular: -<emphasis role="strong">us</emphasis><?asciidoc-br?>
+5ta Declinación: Genitivo singular: -<emphasis role="strong">ei</emphasis></simpara></note>
+</chapter>
+<chapter id="_primera_declinación">
+<title>Primera Declinación</title>
+<section id="_tema_en_a">
+<title>(Tema en -a-)</title>
+</section>
+<section id="_genitivo_ae">
+<title>Genitivo: -ae</title>
+<simpara><emphasis role="strong">§16</emphasis>
+Esta declinación comprende sustantivos y adjetivos femeninos y algunos
+sustantivos masculinos. El nominativo singular termina en <emphasis role="strong">-a</emphasis>.</simpara>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Tabla de Desinencias</title>
+<tgroup cols="3">
+<colspec colname="col_1" colwidth="33*"/>
+<colspec colname="col_2" colwidth="33*"/>
+<colspec colname="col_3" colwidth="33*"/>
+<thead>
+<row>
+<entry align="center" valign="top"> </entry>
+<entry align="center" valign="top"> Singular </entry>
+<entry align="center" valign="top"> Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">NOMINATIVO</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>-ă</simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>-ae</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">VOCATIVO</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ACUSATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>-am</simpara></entry>
+<entry align="center" valign="top"><simpara>-ās</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">GENITIVO</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>-ae</simpara></entry>
+<entry align="center" valign="top"><simpara>-ārum</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">DATIVO</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>-īs</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ABLATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>-ā</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpara>Paradigmas:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Substantivo: <emphasis role="strong">rosa</emphasis>, <emphasis>la rosa</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Adjetivo: <emphasis role="strong">bona</emphasis>, <emphasis>buena:</emphasis>
+</simpara>
+</listitem>
+</orderedlist>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Tabla de desinencias paradigma de los substantivos</title>
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<thead>
+<row>
+<entry align="center" valign="top"> </entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"> Singular </entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"> Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">NOMINATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ă</emphasis> &#8594; <emphasis>la rosa</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ă</emphasis> &#8594; <emphasis>buena</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ae</emphasis> &#8594; <emphasis>las rosas</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ae</emphasis> &#8594; <emphasis>buenas</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">VOCATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ă</emphasis> &#8594; <emphasis>(oh) rosa</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ă</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ae</emphasis> &#8594; <emphasis>(oh) rosas</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ae</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ACUSATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">am</emphasis> &#8594; (a) la rosa</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">am</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ās</emphasis> &#8594; (a) las rosas</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ās</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">GENITIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ae</emphasis> &#8594; de la rosa</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ae</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ārum</emphasis> &#8594; de las rosas</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ārum</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">DATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ae</emphasis> &#8594; a, para la rosa</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ae</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ras<emphasis role="strong">īs</emphasis> &#8594; a, para las rosas</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">īs</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ABLATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">ā</emphasis> &#8594; con la rosa</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">ā</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>ros<emphasis role="strong">īs</emphasis> &#8594; con las rosas</simpara></entry>
+<entry align="center" valign="top"><simpara>bon<emphasis role="strong">īs</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpara><emphasis role="strong">§17 GÉNERO</emphasis>.-
+Los sustantivos de esta declinación son en general femeninos, excepto los nombres
+de varón y oficio de varón, y la mayor parte de los ríos, que son masculinos.
+Ejs.: <emphasis role="strong">nauta</emphasis>, <emphasis>el marinero</emphasis>, <emphasis role="strong">scriba</emphasis>, <emphasis>el escriba</emphasis>, <emphasis role="strong">agricola</emphasis>, <emphasis>el campesino</emphasis>,
+<emphasis role="strong">Cotta</emphasis> (nombre propio), <emphasis>Cota</emphasis>, <emphasis role="strong">Sequana</emphasis>, <emphasis>el Sena</emphasis>, <emphasis role="strong">Mosella</emphasis>, <emphasis>el Mosela</emphasis>.</simpara>
+<simpara><emphasis role="strong">§18 PARTICULARIDADES</emphasis>.-</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Los nombres <emphasis role="strong">dea</emphasis>, <emphasis>diosa</emphasis>, <emphasis role="strong">filia</emphasis>, <emphasis>hija</emphasis>, <emphasis role="strong">liberta</emphasis>, <emphasis>liberta</emphasis>, cuando
+aparecen al lado de sus correrspondientes masculinos
+<emphasis role="strong">deus</emphasis>, <emphasis>dios</emphasis>, <emphasis role="strong">filius</emphasis>, <emphasis>hijo</emphasis>, <emphasis role="strong">libertus</emphasis>, <emphasis>liberto</emphasis>, presentan en el
+Dat. y Abl. del plural una desinencia en <emphasis role="strong">-ābus</emphasis>:
+</simpara>
+<note>
+<simpara>filiis et fili<emphasis role="strong">abus</emphasis> &#8594; <emphasis>a los hijos y las hijas</emphasis>.</simpara>
+<simpara>Usados separadamente, tienen las desinencia regular
+en <emphasis role="strong">-is</emphasis>: <emphasis role="strong">deis</emphasis>, <emphasis role="strong">filiis</emphasis>, <emphasis role="strong">libertis</emphasis>.</simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+Los nombres compuestos en <emphasis role="strong">-cola</emphasis> y <emphasis role="strong">-gena</emphasis> presentan a veces, aunque sólo
+en poesía, un Genitivo plural en <emphasis role="strong">-um</emphasis> en vez del regular en <emphasis role="strong">-arum</emphasis>:
+</simpara>
+<note>
+<simpara><emphasis role="strong">agricola</emphasis>, <emphasis>campesino</emphasis>, Gen. pl. agricol<emphasis role="strong">arum</emphasis> o agricol<emphasis role="strong">um</emphasis>.</simpara>
+<simpara><emphasis role="strong">Graiugena</emphasis>, <emphasis>griego de nacimiento</emphasis>, Gen. pl. Graiugen<emphasis role="strong">arum</emphasis> o Graiugen<emphasis role="strong">um</emphasis>.</simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+En los términos jurídicos pater familias, mater familias,
+<emphasis>padre de familia</emphasis>, <emphasis>madre de familia</emphasis>, en lugar de pater familiae, mater familiae,
+encontramos un resto de una antigua desinencia del Gen. sing. en <emphasis role="strong">-as</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Nótese el cambio de sentido de las siguientes palabras al pasar del
+singular al plural:
+</simpara>
+<note>
+<simpara><emphasis role="strong">copia</emphasis>, <emphasis>abundancia</emphasis>   &#8594; <emphasis role="strong">copiae</emphasis>, <emphasis>tropas</emphasis></simpara>
+<simpara><emphasis role="strong">littera</emphasis>, <emphasis>letra</emphasis> &#8594; <emphasis role="strong">litterae</emphasis>, <emphasis>carta</emphasis>, <emphasis>literautura</emphasis></simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+Las palabras siguientes sólo se usan en plural:
+</simpara>
+<note>
+<simpara><emphasis role="strong">nuptiae</emphasis>, <emphasis>bodas</emphasis><?asciidoc-br?>
+<emphasis role="strong">reliquiae</emphasis>, <emphasis>restos</emphasis><?asciidoc-br?>
+<emphasis role="strong">tenebrae</emphasis>, <emphasis>tinieblas</emphasis><?asciidoc-br?>
+<emphasis role="strong">angustiae</emphasis>, <emphasis>desfiladero</emphasis><?asciidoc-br?>
+<emphasis role="strong">divitiae</emphasis>, <emphasis>riquezas</emphasis><?asciidoc-br?>
+<emphasis role="strong">indutiae</emphasis>, <emphasis>tregua</emphasis></simpara>
+</note>
+</listitem>
+</orderedlist>
+<simpara>y algunos nombres de ciudad: <emphasis role="strong">Athenae</emphasis>, <emphasis>Athenas</emphasis>, <emphasis role="strong">Syracusae</emphasis>, <emphasis>Siracusa</emphasis>.</simpara>
+<simpara><emphasis role="strong">§19 EL LOCATIVO</emphasis>.-
+Los nombres de ciudad, en singular, de la primera declinación,
+como <emphasis role="strong">Roma</emphasis>, <emphasis role="strong">Malacca</emphasis>, <emphasis>Málaga</emphasis>, <emphasis role="strong">Caesaraugusta</emphasis>, <emphasis>Zaragoza</emphasis>, conservan un antiguo
+caso, llamado <emphasis>Locativo</emphasis>, que sirve para indicar el lugar en dónde algo
+ocurre o alguien se encuentra. Su desinencia es <emphasis role="strong">-ae</emphasis>.</simpara>
+<note>
+<simpara><emphasis role="strong">Roma</emphasis>, <emphasis>en Roma</emphasis><?asciidoc-br?>
+<emphasis role="strong">Malaccae</emphasis>, <emphasis>en Málaga</emphasis><?asciidoc-br?>
+<emphasis role="strong">Caesaraugustae</emphasis>, <emphasis>en Zaragoza</emphasis></simpara>
+</note>
+<simpara>Los nombres de ciudad que tienen forma de plural, suplen el Locativo
+por el Ablativo:</simpara>
+<note>
+<simpara><emphasis role="strong">Athenis</emphasis>, <emphasis>en Atenas</emphasis><?asciidoc-br?>
+<emphasis role="strong">Syracusis</emphasis>, <emphasis>en Siracusa</emphasis></simpara>
+</note>
+<simpara><emphasis role="strong">§20 USO DE LOS CASOS</emphasis>.-</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+El <emphasis>Nominativo</emphasis> es el caso del <emphasis>sujeto</emphasis> y del <emphasis>predicado nominal</emphasis>.
+</simpara>
+<simpara><emphasis>Sujeto</emphasis> es la palabra que designa al ser de que se afirma a niega algo.
+Responde en castellano a las preguntas <emphasis>¿quién?</emphasis> o <emphasis>¿qué?</emphasis>:</simpara>
+<note>
+<simpara><emphasis>La niña ríe</emphasis>: <emphasis role="strong">puella ridet</emphasis><?asciidoc-br?>
+<emphasis>Los campesinos aran</emphasis>: <emphasis role="strong">agricolae arant</emphasis><?asciidoc-br?></simpara>
+<simpara>¿Quién ríe? <emphasis>La niña</emphasis><?asciidoc-br?>
+¿Quién ara? <emphasis>Los campesinos</emphasis></simpara>
+</note>
+<simpara>En las oraciones sustantivas o de verbo <emphasis>ser</emphasis>, se llama <emphasis>predicado nominal</emphasis> (o atributo)
+el adjetivo o sustantivo que expresa la cualidad afirmada del sujeto:</simpara>
+<note>
+<simpara><emphasis>La rosa es bella</emphasis>:  <emphasis role="strong">rosa est pulchra</emphasis><?asciidoc-br?>
+<emphasis>Las niñas son perezosas</emphasis>:  <emphasis role="strong">puellae sunt pigrae</emphasis></simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+El <emphasis>Vocativo</emphasis> es el caso en que se pone el nombre de la persona o cosa
+a la que  dirigimos la palabra. Puede llevar la interjección  "o"  (castellano oh),
+suele ir entre comas y equivale a una exclamación aparte del resto de la frase:
+</simpara>
+<note>
+<simpara>¡Oh rosa, cuán bella eres!: O rosa, quam pulchra es!
+Reina, sé clemente: Regina, esto clemens.</simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+El <emphasis>Acusativo</emphasis> es el caso del <emphasis>complemento directo</emphasis> de los verbos transitivos.
+</simpara>
+<simpara><emphasis>Complemento directo</emphasis> es la palabra que indica la persona o cosa
+sobre la que recae directamente la acción expresada por el verbo. Responde
+en castellano a las preguntas <emphasis role="strong">¿a quién?</emphasis> o <emphasis role="strong">¿qué?</emphasis>:</simpara>
+<note>
+<simpara><emphasis>la esclava ama a la niña</emphasis>: <emphasis role="strong">serva amat puellam</emphasis><?asciidoc-br?>
+<emphasis>el labrador recorre las selvas</emphasis>: <emphasis role="strong">agrícola peragrat silvas</emphasis></simpara>
+<simpara>¿A quién ama la esclava? a la niña<?asciidoc-br?>
+¿Qué recorre el labrador? las selvas</simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+El <emphasis>Dativo</emphasis> es el caso del <emphasis>complemento indirecto</emphasis>.
+</simpara>
+<simpara>El <emphasis>complemento indirecto</emphasis> indica la persona en cuyo interés se realiza
+la acción expresada por el verbo. En castellano lleva las preposiciones
+<emphasis>a</emphasis> o <emphasis>para</emphasis> y responde a las preguntas <emphasis role="strong">¿a quién?</emphasis> o <emphasis role="strong">¿para quién?</emphasis>:</simpara>
+<note>
+<simpara><emphasis>la esclava prepara la cena para la señora</emphasis>: <emphasis role="strong">Serva parat cenam dominae</emphasis><?asciidoc-br?>
+<emphasis>el campesino da rosas a las niñas</emphasis>: <emphasis role="strong">Agrícola dat rosas puellis</emphasis></simpara>
+<simpara>¿Para quién prepara la cena? <emphasis role="strong">Para la señora</emphasis><?asciidoc-br?>
+¿A quién da rosas? <emphasis role="strong">A las niñas</emphasis></simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+El <emphasis>Ablativo</emphasis> es el caso del <emphasis>complemento circunstancial</emphasis>.
+</simpara>
+<simpara><emphasis>Complemento circunstancial</emphasis> es la palabra que modifica la significación del
+verbo expresando circunstancias de lugar, tiempo, instrumento, modo,
+causa, etc. En castellano puede ir acompañado de todas las preposiciones y
+responde a las preguntas <emphasis>¿dónde?</emphasis>, <emphasis>¿cuándo?</emphasis>, <emphasis>¿con qué?</emphasis>, <emphasis>¿cómo?</emphasis>,
+<emphasis>¿por qué?</emphasis>, etc.:</simpara>
+<note>
+<simpara><emphasis>la sed se aplaca con agua</emphasis>: <emphasis role="strong">Sitis aqua extinguitur</emphasis><?asciidoc-br?>
+<emphasis>en las selvas hay muchas fieras</emphasis>: <emphasis role="strong">In silvis sunt multae bestiae</emphasis><?asciidoc-br?></simpara>
+<simpara>¿Con qué se aplaca la sed? <emphasis>Con el agua</emphasis><?asciidoc-br?>
+¿Dónde están las fieras? <emphasis>En las selvas</emphasis></simpara>
+</note>
+</listitem>
+<listitem>
+<simpara>
+El <emphasis>Genitivo</emphasis> es el caso del <emphasis>complemento determinativo del nombre</emphasis>.
+Lleva en castellano la preposición <emphasis>de</emphasis>:
+</simpara>
+<note>
+<simpara><emphasis>me gustan las plumas del águila</emphasis>: <emphasis role="strong">Amo pennas aquilae</emphasis><?asciidoc-br?>
+<emphasis>el perfume de las rosas</emphasis>: <emphasis role="strong">Odor rosarum</emphasis><?asciidoc-br?></simpara>
+<simpara>¿Qué plumas?  <emphasis>Las del águila</emphasis><?asciidoc-br?>
+¿Qué perfume?  <emphasis>El de las rosas</emphasis></simpara>
+</note>
+</listitem>
+</orderedlist>
+</section>
+</chapter>
+<chapter id="_segunda_declinación">
+<title>Segunda Declinación</title>
+<section id="_tema_en_o">
+<title>(Tema en -o)</title>
+<simpara>Genitivo: -i</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Los nombres de la Segunda Declinación se dividen en tres grupos, atendiendo a la terminación del Nominativo singular:
+</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>
+Nombres en <emphasis role="strong">-us</emphasis>. Substantivos y adjetivos masculinos y algunos substantivos femeninos.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Nombres en <emphasis role="strong">-er</emphasis>. Sunstantivos y adjetivos masculinos.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Nombres en <emphasis role="strong">-um</emphasis>. Substantivos y adjetuvos neutros.
+</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="3">
+<colspec colname="col_1" colwidth="33*"/>
+<colspec colname="col_2" colwidth="33*"/>
+<colspec colname="col_3" colwidth="33*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>-us</simpara></entry>
+<entry align="left" valign="top"><simpara>-us</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>-er</simpara></entry>
+<entry align="left" valign="top"><simpara>-us</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>sd</simpara></entry>
+<entry align="left" valign="top"><simpara>us</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>sd</simpara></entry>
+<entry align="left" valign="top"><simpara>us</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>sd</simpara></entry>
+<entry align="left" valign="top"><simpara>us</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>sd</simpara></entry>
+<entry align="left" valign="top"><simpara>su</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>
+NOMBRES EN <emphasis role="strong">-us</emphasis>. Paradigmas: Substantivo, <emphasis role="strong">populus</emphasis>, el pueblo. Adjetivo, <emphasis role="strong">bonus</emphasis>, bueno.
+</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="6">
+<colspec colname="col_1" colwidth="16*"/>
+<colspec colname="col_2" colwidth="16*"/>
+<colspec colname="col_3" colwidth="16*"/>
+<colspec colname="col_4" colwidth="16*"/>
+<colspec colname="col_5" colwidth="16*"/>
+<colspec colname="col_6" colwidth="16*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>populus</simpara></entry>
+<entry align="left" valign="top"><simpara>populi</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>bonus</simpara></entry>
+<entry align="left" valign="top"><simpara>boni</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>popule</simpara></entry>
+<entry align="left" valign="top"><simpara>populi</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>bone</simpara></entry>
+<entry align="left" valign="top"><simpara>boni</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>populum</simpara></entry>
+<entry align="left" valign="top"><simpara>populos</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>bonum</simpara></entry>
+<entry align="left" valign="top"><simpara>bonos</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>populi</simpara></entry>
+<entry align="left" valign="top"><simpara>populorum</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>boni</simpara></entry>
+<entry align="left" valign="top"><simpara>bonorum</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>populo</simpara></entry>
+<entry align="left" valign="top"><simpara>populis</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>bono</simpara></entry>
+<entry align="left" valign="top"><simpara>bonis</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>populo</simpara></entry>
+<entry align="left" valign="top"><simpara>populis</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>bobo</simpara></entry>
+<entry align="left" valign="top"><simpara>bonis</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</listitem>
+<listitem>
+<simpara>
+GÉNERO. La mayoría de los substantivos en <emphasis role="strong">-us</emphasis> son del género masculino.
+</simpara>
+<simpara>De acuerdo con la regla general de los géneros (véase 10), son <emphasis>femeninos</emphasis> los nombres de árbol: <emphasis role="strong">pinus</emphasis>, <emphasis>pino</emphasis>, <emphasis role="strong">fagus</emphasis>, <emphasis>haya</emphasis>, <emphasis role="strong">pirus</emphasis>, <emphasis>peral</emphasis>, <emphasis role="strong">malus</emphasis>, <emphasis>manzano</emphasis>, etc., y algunos de ciudades: <emphasis role="strong">Corinthus</emphasis>, <emphasis>Corinto</emphasis>, <emphasis role="strong">Rhodus</emphasis>, <emphasis>Rodas</emphasis>, y también <emphasis role="strong">Cyprus</emphasis>, <emphasis>Chipre</emphasis>, y <emphasis role="strong">Aegyptus</emphasis>, <emphasis>Egipto</emphasis>.</simpara>
+<simpara>Es asimismo femenino <emphasis role="strong">humus</emphasis>, <emphasis>la tierra</emphasis>.</simpara>
+<simpara>Son neutros: <emphasis role="strong">vulgus</emphasis>, <emphasis>vulgo</emphasis>, <emphasis role="strong">virus</emphasis>, <emphasis>veneno</emphasis> y <emphasis role="strong">pelagus</emphasis>, <emphasis>piélago</emphasis>, <emphasis>mar</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara>
+PARTICULARIDADES.
+</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>
+El Vocativo. Los nombres en <emphasis role="strong">-us</emphasis> de la segunda declinación son los únicos que tienen, en singular, el Vocativo distinto del Nominativo.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Nombres en <emphasis role="strong">-ius</emphasis>. Los substantivos terminados en <emphasis role="strong">-ius</emphasis> forman el Vocativo singular en <emphasis role="strong">-is</emphasis>.
+</simpara>
+  filius, Voc. sing. fili
+  Antonius, Voc. sing. Antoni</programlisting>
+</listitem>
+<listitem>
+<simpara>
+El nombre deus, gen. dei, <emphasis>dios</emphasis>, carece de Vocativo sing. El plural se declina así:
+</simpara>
+  N. V. di (o dei)
+  Ac. deos
+  G. deorum o deum
+  D. Ab. dis (o deis)</programlisting>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>
+NOMBRES EN <emphasis role="strong">-er</emphasis>. La única diferencia que distingue la declinación de los nombres en <emphasis role="strong">-er</emphasis> de la de los en <emphasis role="strong">-us</emphasis> consiste en que aquéllos forman el Vocativo sing. igaul al Nominativo.
+</simpara>
+<simpara>Paradigmas: sunstantivo: <emphasis role="strong">ager</emphasis>, gen. <emphasis role="strong">agri</emphasis>, <emphasis>el campo</emphasis>; adjetivo: <emphasis role="strong">pulcher</emphasis>, gen. <emphasis role="strong">pulchri</emphasis>, <emphasis>hermoso</emphasis>.</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="6">
+<colspec colname="col_1" colwidth="16*"/>
+<colspec colname="col_2" colwidth="16*"/>
+<colspec colname="col_3" colwidth="16*"/>
+<colspec colname="col_4" colwidth="16*"/>
+<colspec colname="col_5" colwidth="16*"/>
+<colspec colname="col_6" colwidth="16*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">ri</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">ri</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">os</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">os</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">orum</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">orum</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">is</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">is</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<simpara>La mayor parte de los nombres en <emphasis role="strong">-er</emphasis> pierden en los demás casos la <emphasis role="strong">-e-</emphasis> del Nom. Voc. singular.
+Hay algunos, sin embargo, que la conservan: substantivo: <emphasis role="strong">puer</emphasis>, <emphasis>niño</emphasis>; adjetivo: <emphasis role="strong">tener</emphasis>, <emphasis>tierno</emphasis>:</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="6">
+<colspec colname="col_1" colwidth="16*"/>
+<colspec colname="col_2" colwidth="16*"/>
+<colspec colname="col_3" colwidth="16*"/>
+<colspec colname="col_4" colwidth="16*"/>
+<colspec colname="col_5" colwidth="16*"/>
+<colspec colname="col_6" colwidth="16*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOM. VOC.</simpara></entry>
+<entry align="left" valign="top"><simpara>pu<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pue<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>ten<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>tene<emphasis role="strong">ri</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>puer<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>puer<emphasis role="strong">os</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>tener<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>tener<emphasis role="strong">os</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>pue<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>puer<emphasis role="strong">orum</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>tene<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>tener<emphasis role="strong">orum</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DAT. ABL.</simpara></entry>
+<entry align="left" valign="top"><simpara>puer<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>puer<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>tener<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>tener<emphasis role="strong">is</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<tip><simpara>Como <emphasis role="strong">puer</emphasis> se declinan los substantivos <emphasis role="strong">socer</emphasis>, <emphasis>suegro</emphasis>, <emphasis role="strong">gener</emphasis>, <emphasis>yerno</emphasis>, <emphasis role="strong">vesper</emphasis>, <emphasis>la tarde</emphasis>, <emphasis role="strong">adulter, <emphasis>adúltero</emphasis>, *Liber</emphasis>, <emphasis>el dios Baco</emphasis>, y el plural <emphasis role="strong">liberi</emphasis>, <emphasis role="strong">orum</emphasis>, <emphasis>los hijos</emphasis>; como <emphasis role="strong">tener</emphasis>, los adjetivos <emphasis role="strong">asper</emphasis>, <emphasis>áspero</emphasis>, <emphasis role="strong">liber</emphasis>, <emphasis>liber</emphasis>, <emphasis role="strong">miser</emphasis>, <emphasis>desgraciado</emphasis>, <emphasis role="strong">lacer</emphasis>, <emphasis>desgarrado</emphasis>, <emphasis role="strong">gibber</emphasis>, <emphasis>jorobado</emphasis> y los compuestos con <emphasis role="strong">-fer</emphasis> y <emphasis role="strong">-ger</emphasis>, como <emphasis role="strong">mortifer</emphasis>, <emphasis>mortífero</emphasis>, <emphasis role="strong">aliger</emphasis>, <emphasis>alado</emphasis>.</simpara></tip>
+<tip><simpara>Como <emphasis role="strong">puer</emphasis> se declina también <emphasis role="strong">vir</emphasis>, gen. <emphasis role="strong">viri</emphasis>, <emphasis>varón</emphasis>, y sus compuestos, como <emphasis role="strong">triumvir</emphasis>, <emphasis>triunviro</emphasis>, <emphasis role="strong">semivir</emphasis>, <emphasis>afeminado</emphasis>, etc.</simpara></tip>
+<tip><simpara>Nótese también el adjetivo <emphasis role="strong">satur</emphasis>, gen. <emphasis role="strong">saturi</emphasis>, <emphasis>saciado</emphasis>.</simpara></tip>
+<simpara>GÉNERO. Los substantivos y adjetivos en <emphasis role="strong">-er</emphasis> son todos masculinos.</simpara>
+</listitem>
+<listitem>
+<simpara>
+NOMBRES EN <emphasis role="strong">-em</emphasis>.
+</simpara>
+<simpara>GÉNERO. Todos los substantivos y adjetivos en <emphasis role="strong">-um</emphasis> son, sin excepción, neutros.</simpara>
+</listitem>
+<listitem>
+<simpara>
+REGLA GENERAL SOBRE LA DECLINACIÓN DE LOS NEUTROS. Los substantivos y adjetivos <emphasis>neutros</emphasis>, sean de la declinación que fueren, forman siempre <emphasis role="strong">iguales</emphasis> los tres casos <emphasis role="strong">Nominativo, Vocativo y Acusativo</emphasis>.
+</simpara>
+<simpara>En plural estos tres casos tienen siempre la desinencia <emphasis role="strong">-a</emphasis>.</simpara>
+<simpara>Tercera Declinación</simpara>
+<simpara>(Temas en consonante y en -i)</simpara>
+<simpara>Genitivo -is</simpara>
+</listitem>
+<listitem>
+<simpara>
+La Tercera Declinación comprende substantivos y adjetivos de los tres géneros. Los nombres de esta declinación se dividen en dos grandes grupos: nombres de tema en consonate y nombres de tema en <emphasis role="strong">-i</emphasis>.
+</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="6">
+<colspec colname="col_1" colwidth="16*"/>
+<colspec colname="col_2" colwidth="16*"/>
+<colspec colname="col_3" colwidth="16*"/>
+<colspec colname="col_4" colwidth="16*"/>
+<colspec colname="col_5" colwidth="16*"/>
+<colspec colname="col_6" colwidth="16*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top">Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">ri</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">ri</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">os</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">os</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>ag<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">orum</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulch<emphasis role="strong">ri</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">orum</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">is</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>agr<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">o</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>pulchr<emphasis role="strong">is</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</listitem>
+<listitem>
+<simpara>
+NOMBRES PARISÍLABOS E IMPARISÍLABOS. Se llaman nombres parisílabos los que en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:
+</simpara>
+  Nom. hos-tis, Genit. hos-tis
+  Nom. nu-bes, Genit. nu-bis
+  Nom. ma-re, Genit. ma-ris</programlisting>
+<simpara>Nombres imparisílabos son los que en el Genit. sing. tienen una sílaba más que en el Nominativo:</simpara>
+  Nom. con-sul, Genit. con-su-lis
+  Nom. rex, Genit. re-gis
+  Nom. ci-vi-tas, Genit. si-vi-ta-tis</programlisting>
+<simpara>En general, y salvo las excepciones que se dirán, los nombres de tema en -i son parisílabos, e imparisílabos los de tema en consonante.</simpara>
+</listitem>
+<listitem>
+<simpara>
+DIFERENCIAS EN LA DECLINACIÓN. Los nombres de tema en consonante (imparisílabos) tienen en el <emphasis>Genit. plur.</emphasis> la terminación <emphasis role="strong">-um</emphasis>, en el <emphasis>Nom. Voc. Acus. plur. neutro</emphasis>, <emphasis role="strong">-a</emphasis>. Los de tema en <emphasis role="strong">-i</emphasis> (parisílabos) añaden una <emphasis role="strong">i</emphasis> ante estas terminaciones: <emphasis>Genit. pl.</emphasis> <emphasis role="strong">-ium</emphasis>, <emphasis>Nom. Voc. Acus. pl. neutro</emphasis> <emphasis role="strong">-ia</emphasis>. Además, los adjetivos de los dos temas y algunos substantivos de tema en <emphasis role="strong">-i</emphasis> tienen en el <emphasis>Ablat. sing.</emphasis> <emphasis role="strong">-i</emphasis> en vez de <emphasis role="strong">-e</emphasis>.
+</simpara>
+</listitem>
+</orderedlist>
+</section>
+</chapter>
+<chapter id="_tercera_declinación">
+<title>Tercera Declinación</title>
+<section id="_temas_en_consonante_y_en_i">
+<title>(Temas en consonante y en -i)</title>
+<simpara><emphasis role="strong">Genitivo -is</emphasis></simpara>
+<simpara><emphasis role="strong">§30</emphasis> La Tercera Declinación comprende substantivos y adjetivos de los tres géneros.
+Los nombres de esta declinación se dividen en dos grandes grupos: nombres de tema
+en consonate y nombres de tema en <emphasis role="strong">-i</emphasis>.</simpara>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Tabla de Desinencias</title>
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<tbody>
+<row>
+<entry align="center" valign="top" morerows="1"><simpara></simpara></entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"><simpara><emphasis role="strong">Singular</emphasis></simpara></entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"><simpara><emphasis role="strong">Plural</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">Masc. Fem.</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara><emphasis role="strong">Netro</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara><emphasis role="strong">Masc. Fem.</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara><emphasis role="strong">Neutro</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">NOMINATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>&#8201;&#8212;&#8201;, s</simpara></entry>
+<entry align="center" valign="top"><simpara>&#8201;&#8212;&#8201;</simpara></entry>
+<entry align="center" valign="top"><simpara>-ēs</simpara></entry>
+<entry align="center" valign="top"><simpara>-ă, -iă</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">VOCATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>&#8201;&#8212;&#8201;, s</simpara></entry>
+<entry align="center" valign="top"><simpara>&#8201;&#8212;&#8201;</simpara></entry>
+<entry align="center" valign="top"><simpara>-ēs</simpara></entry>
+<entry align="center" valign="top"><simpara>-ă, -iă</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ACUSATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>-em</simpara></entry>
+<entry align="center" valign="top"><simpara>&#8201;&#8212;&#8201;</simpara></entry>
+<entry align="center" valign="top"><simpara>-ēs</simpara></entry>
+<entry align="center" valign="top"><simpara>-ă, -iă</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">GENITIVO</emphasis></simpara></entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"><simpara>-ĭs</simpara></entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"><simpara>-um, -ium</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">DATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"><simpara>-ī</simpara></entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"><simpara>-ĭbus</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ABLATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"><simpara>-ĕ, -ī</simpara></entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"><simpara>-ībus</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpara><phrase role="paragrafo"><emphasis role="strong">§31</emphasis> NOMBRES PARISÍLABOS E IMPARISÍLABOS</phrase>. Se llaman nombres parisílabos los que
+en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:</simpara>
+<note>
+<literallayout class="monospaced">Nom. hos-tis, Genit. hos-tis
+Nom. nu-bes, Genit. nu-bis
+Nom. ma-re, Genit. ma-ris</literallayout>
+</note>
+<simpara>Nombres imparisílabos son los que en el Genit. sing. tienen una sílaba más que
+en el Nominativo:</simpara>
+<note>
+<literallayout class="monospaced">Nom. con-sul, Genit. con-su-lis
+Nom. rex, Genit. re-gis
+Nom. ci-vi-tas, Genit. si-vi-ta-tis</literallayout>
+</note>
+<simpara>En general, y salvo las excepciones que se dirán, los nombres de tema en -i son
+parisílabos, e imparisílabos los de tema en consonante.</simpara>
+<simpara><emphasis role="strong">§32</emphasis> DIFERENCIAS EN LA DECLINACIÓN. Los nombres de tema en consonante (imparisílabos)
+tienen en el <emphasis>Genit. plur.</emphasis> la terminación <emphasis role="strong">-um</emphasis>, en el <emphasis>Nom. Voc. Acus. plur. neutro</emphasis>, <emphasis role="strong">-a</emphasis>.
+Los de tema en <emphasis role="strong">-i</emphasis> (parisílabos) añaden una <emphasis role="strong">i</emphasis> ante estas terminaciones:
+<emphasis>Genit. pl.</emphasis> <emphasis role="strong">-ium</emphasis>, <emphasis>Nom. Voc. Acus. pl. neutro</emphasis> <emphasis role="strong">-ia</emphasis>. Además, los adjetivos de
+los dos temas y algunos substantivos de tema en <emphasis role="strong">-i</emphasis> tienen en el <emphasis>Ablat. sing.</emphasis>
+<emphasis role="strong">-i</emphasis> en vez de <emphasis role="strong">-e</emphasis>.</simpara>
+<simpara><emphasis role="strong">§33</emphasis> REGLA MECÁNICA PARA DECLINAR NOMBRES DE LA TERCERA DECLINACIÓN. Para declinar
+un nombre de la Tercera Declinación hay que conocer la forma de su _Genitivo singular
+(que los diccionarios dan siempre). Se separa de esta forma la desinencia <emphasis role="strong">-is</emphasis>,
+y a lo que se resta se le añade las terminaciones de los demás casos.</simpara>
+<simpara>Ej.:
+rex, <emphasis>rey</emphasis>, Genit. reg-is, Acus. reg-em, Dat. reg-i, Abl. reg-e, etc.
+homo, <emphasis>hombre</emphasis>, Genit. homin-is, Acus. homin-em, Dat. homin-i, Abl. homin-e, etc.</simpara>
+</section>
+<section id="_temas_en_consonante">
+<title>Temas en consonante</title>
+<simpara><emphasis role="strong">§34</emphasis> La consonante final del tema aparece generalmente ante la terminación
+<emphasis role="strong">-is</emphasis> del <emphasis>Genit. sing.</emphasis>, aunque a veces accidentes fonéticos han venido
+a obscurecerla.</simpara>
+<simpara><emphasis role="strong">§35</emphasis> a) Nombre sin desinencia especial en el Nominativo singular:</simpara>
+<simpara>Paradigmas: consul, genit. consulis, m. <emphasis>cónsul</emphasis>;
+nomen, genit. nominis, n. <emphasis>nombre</emphasis>; natio, genit. nationis, f. <emphasis>nación</emphasis>.</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Singular</entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul</simpara></entry>
+<entry align="left" valign="top"><simpara>natio</simpara></entry>
+<entry align="left" valign="top"><simpara>nomen</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul</simpara></entry>
+<entry align="left" valign="top"><simpara>natio</simpara></entry>
+<entry align="left" valign="top"><simpara>nomen</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomen</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">is</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">is</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">i</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">i</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">i</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">e</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">e</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">e</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
+<thead>
+<row>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top">Plural</entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">a</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">a</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">a</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">um</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">ibus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">ibus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">ibus</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>consul<emphasis role="strong">ibus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nation<emphasis role="strong">ibus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>nomin<emphasis role="strong">ibus</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<simpara>Forman el Nominativo sing. sin <emphasis role="strong">-s</emphasis> los temas en líquida (<emphasis role="strong">r, l</emphasis>): soror, soror-is, f. <emphasis>hermana</emphasis>,
+sol, sol-is, m. <emphasis>sol</emphasis>, nasal (n): homo, homin-is, m. <emphasis>hombre</emphasis>,  pecten, pectin-is, m.
+<emphasis>peine</emphasis>, carmen, carmin-is, n. <emphasis>poema</emphasis>; además los nombres que el Nominat. terminaban
+en -on perdieron la -n: homo, natio, serno.</simpara>
+<simpara><emphasis role="strong">§36</emphasis> b) Nombres con -s en Nominativo singular.</simpara>
+<simpara>Substantivos. Paradigmas: <emphasis role="strong">rex</emphasis>, gent. <emphasis role="strong">reg-is</emphasis>, m. <emphasis>rey</emphasis>; <emphasis role="strong">civitas</emphasis>, genit. <emphasis role="strong">civitat-is</emphasis>,
+f. <emphasis>ciudad</emphasis>; <emphasis role="strong">corpus</emphasis>, genit. <emphasis role="strong">corpor-is</emphasis>, n <emphasis>cuerpo</emphasis>.</simpara>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
+<thead>
+<row>
+<entry align="left" valign="top"> </entry>
+<entry align="left" valign="top" namest="col_2" nameend="col_4">Singular</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>rex</simpara></entry>
+<entry align="left" valign="top"><simpara>civitas</simpara></entry>
+<entry align="left" valign="top"><simpara>corpus</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>rex</simpara></entry>
+<entry align="left" valign="top"><simpara>civitas</simpara></entry>
+<entry align="left" valign="top"><simpara>corpus</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corp<emphasis role="strong">us</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>re<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corpor<emphasis role="strong">ĭs</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corpor<emphasis role="strong">ī</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ĕ</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ĕ</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corpor<emphasis role="strong">ĕ</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
+<thead>
+<row>
+<entry align="left" valign="top"> </entry>
+<entry align="left" valign="top" namest="col_2" nameend="col_4">Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>copor<emphasis role="strong">ă</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>VOCATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>copor<emphasis role="strong">ă</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>copor<emphasis role="strong">ă</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corpor<emphasis role="strong">um</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corpor<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="left" valign="top"><simpara>reg<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>civitat<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara>corpor<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<simpara>Tienen desinencia -s en el Nominat. sing. los temas en oclusiva: gutural (c, g): dux,
+duc-is, m. <emphasis>caudillo</emphasis>, lex, leg-is, f. <emphasis>ley</emphasis>, labial (p, b): princeps, princip-is, m. <emphasis>príncipe</emphasis>, plebs,
+pleb-is, f. <emphasis>plebe</emphasis>; dental (d, t): miles, milit-is, m. <emphasis>soldado</emphasis>, mercedes, merced-is, f. <emphasis>salario</emphasis>.
+Los neutros carecen de desinencia: caput, capit-is, <emphasis>cabeza</emphasis>, lac, lact-is, <emphasis>leche</emphasis>.</simpara>
+<simpara>Los temas en -s conservan a veces esta letra en el Nominativo, aunque en los demás
+casos se convierte en -r: honos (tambien honor), honir-is, m. <emphasis>honor</emphasis>, <ulink url="https://la.wiktionary.org/wiki/flos">flos</ulink>, flor-is, m. <emphasis>flor</emphasis>,
+corpus, corpor-is, n. <emphasis>cuerpo</emphasis>, genus, gener-is, n. <emphasis>raza</emphasis>.</simpara>
+<simpara><emphasis role="strong">§37</emphasis> IMPARISÍLABOS CON GENITIVO PL. EN -<emphasis role="strong">ium</emphasis>.</simpara>
+<simpara>Forman el Genit. pl. en -<emphasis role="strong">ium</emphasis> a persar de ser imparisílabos:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+La mayor parte de los adjetivos imparisílabos (véase § 52-56).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Los substantivos monosílabos que tienen dos consonantes ante la terminación
+-is del <emphasis>Genit. sing</emphasis>.:
+</simpara>
+<note>
+<simpara><emphasis role="strong">urbs</emphasis>, f. <emphasis>ciudad</emphasis> - Gen. sing. urb-is - Gen. pl. urbium<?asciidoc-br?>
+<emphasis role="strong">dens</emphasis>, m. <emphasis>diente</emphasis> - Gen. sing. dent-is - Gen. pl. dentium</simpara>
+</note>
+</listitem>
+</orderedlist>
+<simpara>glans, glandis, f. <emphasis>bellota</emphasis>; arx, arcis, f. <emphasis>ciudadela</emphasis>, ars, artis, f. <emphasis>arte</emphasis>; pars, partis, f. <emphasis>parte</emphasis>;
+nox, noctis, f. <emphasis>noche</emphasis>; os, ossis, n. <emphasis>hueso</emphasis>. Algunos de estos nombres son
+antiguos temas en -i que perdieron esta vocal en el Nom. sing. y se hicieron
+imparisílabos (p. ej. pars de partis)</simpara>
+<simpara>+
+. Los gentilicios en -as, -atis y en -is, -itis, como Arpinas, -atis, <emphasis>arpinense</emphasis>, gen. pl.
+Arpinatium, Samnis, -itis, <emphasis>samnita</emphasis>, gen. pl. Samnitium. Asimismo nostras, -atis, <emphasis>compatriota nuestro</emphasis>,
+optimates, <emphasis>los optimates</emphasis>, penates, <emphasis>los dioses familiares</emphasis>.</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Los femeninos abstractos en -tas, -tatis, como civitas, <emphasis>ciudad</emphasis>, pueden hacerlo en
+-um y en -ium.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Algunos monosílabos de vocal larga, como lis, litis, <emphasis>pleito</emphasis> (litium); mus, muris, m.
+<emphasis>ratón</emphasis> (murium); fraus, fraudis, f. <emphasis>fraude</emphasis> (fraudium); faux, faucis, f. <emphasis>fauce</emphasis> (generalmente
+usado en pl. fauces, genit. faucium).
+</simpara>
+</listitem>
+</orderedlist>
+</section>
+<section id="_temas_en_i">
+<title>Temas en -i</title>
+<simpara><emphasis role="strong">§38</emphasis> a) <emphasis>Masculinos y femeninos</emphasis>. Los nombres masculinos o femeninos
+de tema en -i hacen el Nom. sing. en -is:  Substantivos: hostis, hostis, m. <emphasis>enemigo</emphasis>,
+turris, turris, f. <emphasis>torre</emphasis>; adjetivos: brevis, <emphasis>breve</emphasis>.</simpara>
+<simpara>Como éstos se declinan los substantivos terminan en -es (casi todos femeninos):
+nubes, nubis, <emphasis>nube</emphasis>, fames, famis, <emphasis>hambre</emphasis>, y algunos substantivos y adjetivos Masculinos
+en -er: imber, imbris, <emphasis>lluvia</emphasis>, venter, ventris, <emphasis>vientre</emphasis>, celer, <emphasis>rapido</emphasis>.</simpara>
+<simpara>Paradigmas. Substantivos: hostis, hostis, m. <emphasis>enemigo</emphasis>; nubes, nubis, f. <emphasis>nubes</emphasis>;
+imber, imbris, m. <emphasis>lluvia</emphasis>. Adjetivos: forbis, <emphasis>valeroso</emphasis>, celer, <emphasis>rápido</emphasis>.</simpara>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Substantivos Singular</title>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
+<thead>
+<row>
+<entry align="center" valign="top"> </entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_4"> Singular</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">NOMINATIVO</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>hostis</simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>nubes</simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>imber</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">VOCATIVO</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ACUSATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>host<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>nub<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>imbr<emphasis role="strong">em</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">GENITIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>host<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>nub<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>imbr<emphasis role="strong">ĭs</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">DATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>host<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>nub<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>imbr<emphasis role="strong">ī</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ABLATIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>host<emphasis role="strong">ĕ</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>nub<emphasis role="strong">ĕ</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>imbr<emphasis role="strong">ĕ</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Substantivos Plural</title>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="25*"/>
+<thead>
+<row>
+<entry align="center" valign="top"> </entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_4"> Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">NOMINATIVO</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="2"><simpara>host<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="2"><simpara>nub<emphasis role="strong">es</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="2"><simpara>imb<emphasis role="strong">ēr</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">VOCATIVO</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ACUSATIVO</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">GENITIVO</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>host<emphasis role="strong">ium</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>nub<emphasis role="strong">ium</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>imbr<emphasis role="strong">ium</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">DATIVO</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>host<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>nub<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>imbr<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara><emphasis role="strong">ABLATIVO</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Adjetivos</title>
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="20*"/>
+<colspec colname="col_3" colwidth="20*"/>
+<colspec colname="col_4" colwidth="20*"/>
+<colspec colname="col_5" colwidth="20*"/>
+<thead>
+<row>
+<entry align="center" valign="top"> </entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"> Singular </entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"> Plural</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara>NOMINATIVO</simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>fort<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>cel<emphasis role="strong">er</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>fort<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="center" valign="middle" morerows="1"><simpara>celĕr<emphasis role="strong">ēs</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>VOCATIVO</simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>ACUSATIVO</simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">em</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">ēs</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ēs</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>GENITIVO</simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ĭs</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>forti<emphasis role="strong">um</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ium</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>DATIVO</simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>ABLATIVO</simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ī</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>fort<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+<entry align="center" valign="top"><simpara>celĕr<emphasis role="strong">ĭbus</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpara>Observación: Nótese, en los adjetivos, el Ablat. sing. en <emphasis role="strong">-ī</emphasis>.</simpara>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Table A</title>
+<?dbhtml table-width="40%"?>
+<?dbfo table-width="40%"?>
+<?dblatex table-width="40%"?>
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="34*"/>
+<colspec colname="col_2" colwidth="34*"/>
+<colspec colname="col_3" colwidth="34*"/>
+<colspec colname="col_4" colwidth="34*"/>
+<colspec colname="col_5" colwidth="34*"/>
+<thead>
+<row>
+<entry align="left" valign="top"> Ta </entry>
+<entry align="left" valign="top"> Tb </entry>
+<entry align="left" valign="top"> Tc </entry>
+<entry align="left" valign="top"> Td </entry>
+<entry align="left" valign="top"> Te</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>a</simpara></entry>
+<entry align="left" valign="top"><simpara>b</simpara></entry>
+<entry align="left" valign="top"><simpara>c</simpara></entry>
+<entry align="left" valign="top"><simpara>d</simpara></entry>
+<entry align="left" valign="top"><simpara>e</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>aa</simpara></entry>
+<entry align="left" valign="top"><simpara>bbbb</simpara></entry>
+<entry align="left" valign="top"><simpara>cccc</simpara></entry>
+<entry align="left" valign="top"><simpara>dd</simpara></entry>
+<entry align="left" valign="top"><simpara>eee</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table
+frame="all"
+rowsep="1" colsep="1"
+>
+<title>Table B</title>
+<?dbhtml table-width="40%"?>
+<?dbfo table-width="40%"?>
+<?dblatex table-width="40%"?>
+<tgroup cols="5">
+<colspec colname="col_1" colwidth="34*"/>
+<colspec colname="col_2" colwidth="34*"/>
+<colspec colname="col_3" colwidth="34*"/>
+<colspec colname="col_4" colwidth="34*"/>
+<colspec colname="col_5" colwidth="34*"/>
+<thead>
+<row>
+<entry align="left" valign="top"> Ta </entry>
+<entry align="left" valign="top"> Tb </entry>
+<entry align="left" valign="top"> Tc </entry>
+<entry align="left" valign="top"> Td </entry>
+<entry align="left" valign="top"> Te</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>a</simpara></entry>
+<entry align="left" valign="top"><simpara>b</simpara></entry>
+<entry align="left" valign="top"><simpara>c</simpara></entry>
+<entry align="left" valign="top"><simpara>d</simpara></entry>
+<entry align="left" valign="top"><simpara>e</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>aaa</simpara></entry>
+<entry align="left" valign="top"><simpara>bbbb</simpara></entry>
+<entry align="left" valign="top"><simpara>ccc</simpara></entry>
+<entry align="left" valign="top"><simpara>ddd</simpara></entry>
+<entry align="left" valign="top"><simpara>eeee</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</chapter>
+<chapter id="_el_adjetivo">
+<title>El Adjetivo</title>
+<simpara><emphasis role="strong">§50</emphasis> Los adjetivos latinos se declinan como los substantivos y se dividen en
+dos grandes clases según la declinación que siguen:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Los que se declinan según la 1ra y la 2da declinaciones.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Los que se declinan según la 3ra declinación.
+</simpara>
+</listitem>
+</orderedlist>
+<simpara>La primera clase comprende los llamados adjetivos de <emphasis>tres</emphasis> terminaciones;
+la segunda, los de <emphasis>dos</emphasis> y de <emphasis>una</emphasis> terminación.</simpara>
+<simpara><emphasis role="strong">§51</emphasis> ADJETIVOS DE TRES TERMINACIONES. Estos adjetivos poseen tres formas:
+una en -us o en -er, para el masculino, perteneciente a la 2da declinación;
+una en -a, para el femenino, perteneciente a la 1ra declinación; y una en -um,
+para el neutro, perteneciente a la 2da declinación neutra.</simpara>
+<note>
+<simpara>Paradigmas:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+banus, bona, bonum, <emphasis>bueno</emphasis>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+pulcher, pulchra, pulchrum, <emphasis>hermoso</emphasis>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+tener, tenera, tenerum, <emphasis>tierno</emphasis>
+</simpara>
+</listitem>
+</orderedlist>
+</note>
+</chapter>
+<chapter id="_uso_de_los_casos">
+<title>Uso de los Casos</title>
+<simpara><emphasis role="strong">§254</emphasis> NOMINATIVO SUJETO. El nominativo es el caso del sujeto del verbo
+que está en modo personal:</simpara>
+<note><simpara>Exercitus rediit, <emphasis>el ejército regresó</emphasis>.</simpara></note>
+<simpara><emphasis role="strong">§255</emphasis> NOMINATIVO PREDICADO. El predicado nominal con un verbo copulativo
+en modo personal, va en nominativo:</simpara>
+<note><simpara>Animus immortalis est, <emphasis>el alma es inmortal</emphasis>.</simpara></note>
+<simpara><emphasis role="strong">§256</emphasis> VERBOS COPULATIVOS. Además de <emphasis role="strong">esse</emphasis>, hay una serie de verbos que admiten
+un predicado nominal en nominativo, referido al sujeto. Son los que indican «estado»
+o «apariencia», y los pasivos que significan «ser llamado», «ser juzgado», «ser nombrado»,
+etc.:</simpara>
+<note>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Caesar victor evasit, <emphasis>César salió vencedor</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Socrates sapientissimus mihi videtur, <emphasis>Sócrates me parece el más sabio</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Iustitia erga parentes pietas nominatur, <emphasis>la justicia hacia los padres se llama piedad</emphasis>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Consules creatur Caesar et Servilius, <emphasis>son nombrados cónsules César y Servilio</emphasis>
+</simpara>
+</listitem>
+</orderedlist>
+</note>
+</chapter>
+<chapter id="_la_conjunción">
+<title>La Conjunción</title>
+<simpara><emphasis role="strong">§221</emphasis> Las conjunciones son partículas que sirven para unir palabras entre si
+en una oración, u araciones en una frase.</simpara>
+<simpara>Se clasifican en <emphasis>Coordinativas y Subordinativas</emphasis>. Coordinativas son las que
+unen dos palabras en una oración, o dos oraciones entre sí, sin modificar el modo
+del verbo. Subordinativas son las que unen a la oración principal la oración
+u oraciones que de ella dependen.</simpara>
+<simpara><emphasis role="strong">§222</emphasis> I. Conjunciones Coordinativas. a) Copulativas (indicando
+unión), pueden ser <emphasis>simples</emphasis> o <emphasis>correlativas</emphasis>. Las <emphasis>simples</emphasis> son:</simpara>
+<literallayout class="monospaced">et, ac, atque, -que: y
+neque, nec: y no, ni
+quoque: tambien
+etiam: aún, tambien
+ne quidem: ni</literallayout>
+<simpara><emphasis role="strong">§223</emphasis> Observaciones.</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Ac, no se usa nunca ante vocal o h.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Que, es una partícula enclítica que se une a la palabra como un sufijo.
+Senatus populusque Romanus: <emphasis>El Senado y el pueblo romano</emphasis> (abreviado: S.P.Q.R).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Etiam se coloca ante la palabra que une: atiam ago, <emphasis>también yo</emphasis>; quoque se coloca
+después de esta palabra: ego quoque, <emphasis>yo también</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Et tiene, asimismo, valor de también. Veniet et mater eius: <emphasis>Vendrá también su madre</emphasis>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Cuando <emphasis>y</emphasis> no se refiere a una palabra que no sea el verbo, se traduce por <emphasis>et non</emphasis>.
+Brevis et non effusa oratio: <emphasis>Un discurso breve y no prolijo</emphasis>.
+</simpara>
+</listitem>
+</orderedlist>
+</chapter>
+</book>
