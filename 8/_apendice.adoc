@@ -1,0 +1,47 @@
+== Apéndice I
+
+=== Formación de las palabras
+
+==== Derivación y composición
+
+Para formar palabras nuevas de otras ya existentes son posibles
+dos procedimientos: la _derivación_ y la _composición_.
+
+_Palabra compuesta_ es aquella en cuya estructura distinguimos dos
+elementos dotados, cada uno por si, de significación propia. Ejemplos:
+*magnanimus* = *qui magnum animun habet*; *quadrupes* = *qui
+quattuor pedes habet*.
+
+_Palabra derivada_ es la formada de otra palabra simple mediante la
+adición de un prefijo o sufijo que modifica su estructura y sentido, pero
+que aislado no es ninguna palabra. Ejemplos: *audacia* de *audax*, *cursare* y
+*cursitare* de *currere*.
+
+==== Derivación
+
+Las palabras derivadas pueden ser substantivos, adjetivos, verbos
+y adverbios.
+
+. *Substantivos Derivados*. Pueden derivarse o de un verbo, y
+se llaman substantivos verbales, o de un substantivo o adjetivo, y se
+llaman substantivos denominativos.
++
+A. _Substantivos verbales_. Los substantivos derivados de un verbo
+pueden serlo, o del tema de presente o del tema de supino.
++
+.. Las terminaciones más corrientes de los substantivos derivados
+del tema de presente, son:
++
+*-or*: *amor*, _amor_, de *amare*, _amar_; *timor*, _temor_, de *timere*, _temer_.
+(Indica actividad o estado).
++
+*-men*: *flumen*, _rio_, de *fluo*, _fluir_; *agmen*, _ejército en marcha_, de *ago*,
+_llevar_.
++
+*-mentum*: *ornamentum*, _adorno_, de *orno*, _adornar_; *documentum*, _documento_,
+de *docere*, _enseñar_.
++
+*-bŭlum*: *pabulum*, _pasto_, de *pasco*, _apacentar_.
++
+*-cŭlum*: *ferculum*, _litera_, de *fero*, _llevar_; *vehiculum*, _vehículo_, de *veho*,
+_arrastrar_.

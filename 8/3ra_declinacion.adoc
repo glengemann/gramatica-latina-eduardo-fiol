@@ -1,0 +1,231 @@
+== Tercera Declinación
+
+=== (Temas en consonante y en -i)
+*Genitivo -is*
+
+*§30* La Tercera Declinación comprende substantivos y adjetivos de los tres géneros.
+Los nombres de esta declinación se dividen en dos grandes grupos: nombres de tema
+en consonate y nombres de tema en *-i*.
+
+.Tabla de Desinencias
+[cols="^,^,^,^,^",]
+|===
+.2+| 2+h| Singular 2+h| Plural
+h| Masc. Fem. h| Netro h| Masc. Fem. h| Neutro
+s| NOMINATIVO | -- , s | -- | -ēs | -ă, -iă
+s| VOCATIVO | -- , s | -- | -ēs | -ă, -iă
+s| ACUSATIVO | -em | -- | -ēs | -ă, -iă
+s| GENITIVO 2+| -ĭs 2+| -um, -ium
+s| DATIVO 2+| -ī 2+| -ĭbus
+s| ABLATIVO 2+| -ĕ, -ī 2+| -ībus
+|===
+
+
+[paragrafo]#*§31* NOMBRES PARISÍLABOS E IMPARISÍLABOS#. Se llaman nombres parisílabos los que
+en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:
+
+[NOTE]
+--
+  Nom. hos-tis, Genit. hos-tis
+  Nom. nu-bes, Genit. nu-bis
+  Nom. ma-re, Genit. ma-ris
+--
+
+Nombres imparisílabos son los que en el Genit. sing. tienen una sílaba más que
+en el Nominativo:
+
+[NOTE]
+--
+  Nom. con-sul, Genit. con-su-lis
+  Nom. rex, Genit. re-gis
+  Nom. ci-vi-tas, Genit. si-vi-ta-tis
+--
+
+En general, y salvo las excepciones que se dirán, los nombres de tema en -i son
+parisílabos, e imparisílabos los de tema en consonante.
+
+*§32* DIFERENCIAS EN LA DECLINACIÓN. Los nombres de tema en consonante (imparisílabos)
+tienen en el _Genit. plur._ la terminación *-um*, en el _Nom. Voc. Acus. plur. neutro_, *-a*.
+Los de tema en *-i* (parisílabos) añaden una *i* ante estas terminaciones:
+_Genit. pl._ *-ium*, _Nom. Voc. Acus. pl. neutro_ *-ia*. Además, los adjetivos de
+los dos temas y algunos substantivos de tema en *-i* tienen en el _Ablat. sing._
+*-i* en vez de *-e*.
+
+*§33* REGLA MECÁNICA PARA DECLINAR NOMBRES DE LA TERCERA DECLINACIÓN. Para declinar
+un nombre de la Tercera Declinación hay que conocer la forma de su _Genitivo singular
+(que los diccionarios dan siempre). Se separa de esta forma la desinencia *-is*,
+y a lo que se resta se le añade las terminaciones de los demás casos.
+
+Ej.:
+rex, _rey_, Genit. reg-is, Acus. reg-em, Dat. reg-i, Abl. reg-e, etc.
+homo, _hombre_, Genit. homin-is, Acus. homin-em, Dat. homin-i, Abl. homin-e, etc.
+
+=== Temas en consonante
+
+*§34* La consonante final del tema aparece generalmente ante la terminación
+*-is* del _Genit. sing._, aunque a veces accidentes fonéticos han venido
+a obscurecerla.
+
+*§35* a) Nombre sin desinencia especial en el Nominativo singular:
+
+Paradigmas: consul, genit. consulis, m. _cónsul_;
+nomen, genit. nominis, n. _nombre_; natio, genit. nationis, f. _nación_.
+
+[format="csv", options="header"]
+|===
+,Singular,,
+NOMINATIVO,consul,natio,nomen
+VOCATIVO,consul,natio,nomen
+ACUSATIVO,consul**em**,nation**em**,nomen
+GENITIVO,consul**is**,nation**is**,nomin**is**
+DATIVO,consul**i**,nation**i**,nomin**i**
+ABLATIVO,consul**e**,nation**e**,nomin**e**
+|===
+
+[format="csv", options="header"]
+|===
+,Plural,,
+NOMINATIVO,consul**es**,nation**es**,nomin**a**
+VOCATIVO,consul**es**,nation**es**,nomin**a**
+ACUSATIVO,consul**es**,nation**es**,nomin**a**
+GENITIVO,consul**um**,nation**um**,nomin**um**
+DATIVO,consul**ibus**,nation**ibus**,nomin**ibus**
+ABLATIVO,consul**ibus**,nation**ibus**,nomin**ibus**
+|===
+
+Forman el Nominativo sing. sin *-s* los temas en líquida (*r, l*): soror, soror-is, f. _hermana_,
+sol, sol-is, m. _sol_, nasal (n): homo, homin-is, m. _hombre_,  pecten, pectin-is, m.
+_peine_, carmen, carmin-is, n. _poema_; además los nombres que el Nominat. terminaban
+en -on perdieron la -n: homo, natio, serno.
+
+*§36* b) Nombres con -s en Nominativo singular.
+
+Substantivos. Paradigmas: *rex*, gent. *reg-is*, m. _rey_; *civitas*, genit. *civitat-is*,
+f. _ciudad_; *corpus*, genit. *corpor-is*, n _cuerpo_.
+
+[cols=",,,",options="header"]
+|================================================
+| 3+|Singular
+|NOMINATIVO|rex|civitas|corpus
+|VOCATIVO|rex|civitas|corpus
+|ACUSATIVO|reg**em**|civitat**em**|corp**us**
+|GENITIVO|re**ĭs**|civitat**ĭs**|corpor**ĭs**
+|DATIVO|reg**ī**|civitat**ī**|corpor**ī**
+|ABLATIVO|reg**ĕ**|civitat**ĕ**|corpor**ĕ**
+|================================================
+
+[cols=",,,",options="header"]
+|================================================
+| 3+|Plural
+|NOMINATIVO|reg**ēs**|civitat**ēs**|copor**ă**
+|VOCATIVO|reg**ēs**|civitat**ēs**|copor**ă**
+|ACUSATIVO|reg**ēs**|civitat**ēs**|copor**ă**
+|GENITIVO|reg**um**|civitat**um**|corpor**um**
+|DATIVO|reg**ĭbus**|civitat**ĭbus**|corpor**ĭbus**
+|ABLATIVO|reg**ĭbus**|civitat**ĭbus**|corpor**ĭbus**
+|================================================
+
+Tienen desinencia -s en el Nominat. sing. los temas en oclusiva: gutural (c, g): dux,
+duc-is, m. _caudillo_, lex, leg-is, f. _ley_, labial (p, b): princeps, princip-is, m. _príncipe_, plebs,
+pleb-is, f. _plebe_; dental (d, t): miles, milit-is, m. _soldado_, mercedes, merced-is, f. _salario_.
+Los neutros carecen de desinencia: caput, capit-is, _cabeza_, lac, lact-is, _leche_.
+
+Los temas en -s conservan a veces esta letra en el Nominativo, aunque en los demás
+casos se convierte en -r: honos (tambien honor), honir-is, m. _honor_, https://la.wiktionary.org/wiki/flos[flos], flor-is, m. _flor_,
+corpus, corpor-is, n. _cuerpo_, genus, gener-is, n. _raza_.
+
+*§37* IMPARISÍLABOS CON GENITIVO PL. EN -*ium*.
+
+Forman el Genit. pl. en -*ium* a persar de ser imparisílabos:
+
+. La mayor parte de los adjetivos imparisílabos (véase § 52-56).
+. Los substantivos monosílabos que tienen dos consonantes ante la terminación
+-is del _Genit. sing_.:
++
+[NOTE]
+====
+*urbs*, f. _ciudad_ - Gen. sing. urb-is - Gen. pl. urbium +
+*dens*, m. _diente_ - Gen. sing. dent-is - Gen. pl. dentium
+====
+glans, glandis, f. _bellota_; arx, arcis, f. _ciudadela_, ars, artis, f. _arte_; pars, partis, f. _parte_;
+nox, noctis, f. _noche_; os, ossis, n. _hueso_. Algunos de estos nombres son
+antiguos temas en -i que perdieron esta vocal en el Nom. sing. y se hicieron
+imparisílabos (p. ej. pars de partis)
++
+. Los gentilicios en -as, -atis y en -is, -itis, como Arpinas, -atis, _arpinense_, gen. pl.
+Arpinatium, Samnis, -itis, _samnita_, gen. pl. Samnitium. Asimismo nostras, -atis, _compatriota nuestro_,
+optimates, _los optimates_, penates, _los dioses familiares_.
+
+. Los femeninos abstractos en -tas, -tatis, como civitas, _ciudad_, pueden hacerlo en
+-um y en -ium.
+
+. Algunos monosílabos de vocal larga, como lis, litis, _pleito_ (litium); mus, muris, m.
+_ratón_ (murium); fraus, fraudis, f. _fraude_ (fraudium); faux, faucis, f. _fauce_ (generalmente
+usado en pl. fauces, genit. faucium).
+
+=== Temas en -i
+
+*§38* a) _Masculinos y femeninos_. Los nombres masculinos o femeninos
+de tema en -i hacen el Nom. sing. en -is:  Substantivos: hostis, hostis, m. _enemigo_,
+turris, turris, f. _torre_; adjetivos: brevis, _breve_.
+
+Como éstos se declinan los substantivos terminan en -es (casi todos femeninos):
+nubes, nubis, _nube_, fames, famis, _hambre_, y algunos substantivos y adjetivos Masculinos
+en -er: imber, imbris, _lluvia_, venter, ventris, _vientre_, celer, _rapido_.
+
+Paradigmas. Substantivos: hostis, hostis, m. _enemigo_; nubes, nubis, f. _nubes_;
+imber, imbris, m. _lluvia_. Adjetivos: forbis, _valeroso_, celer, _rápido_.
+
+.Substantivos Singular
+[cols="^,^,^,^",options="header"]
+|===
+| 3+| Singular
+s| NOMINATIVO .2+.^| hostis .2+.^| nubes .2+.^| imber
+s| VOCATIVO
+s| ACUSATIVO | host**em** | nub**em** | imbr**em**
+s| GENITIVO | host**ĭs** | nub**ĭs** | imbr**ĭs**
+s| DATIVO | host**ī** | nub**ī** | imbr**ī**
+s| ABLATIVO | host**ĕ** | nub**ĕ** | imbr**ĕ**
+|===
+
+.Substantivos Plural
+[cols="^,^,^,^",options="header"]
+|===
+| 3+| Plural
+s| NOMINATIVO .3+.^| host**ēs** .3+.^| nub**es** .3+.^| imb**ēr**
+s| VOCATIVO
+s| ACUSATIVO
+s| GENITIVO | host**ium** | nub**ium** | imbr**ium**
+s| DATIVO .2+.^| host**ĭbus** .2+.^| nub**ĭbus** .2+.^| imbr**ĭbus**
+s| ABLATIVO
+|===
+
+.Adjetivos
+[cols="^,^,^,^,^",options="header"]
+|===
+| 2+| Singular 2+| Plural
+| NOMINATIVO .2+.^| fort**ĭs** .2+.^| cel**er** .2+.^| fort**ēs** .2+.^| celĕr**ēs**
+| VOCATIVO
+| ACUSATIVO | fort**em** | celĕr**em**| fort**ēs** | celĕr**ēs**
+| GENITIVO | fort**ĭs** | celĕr**ĭs** | forti**um** | celĕr**ium**
+| DATIVO | fort**ī** | celĕr**ī** | fort**ĭbus** | celĕr**ĭbus**
+| ABLATIVO | fort**ī** | celĕr**ī** | fort**ĭbus** | celĕr**ĭbus**
+|===
+
+Observación: Nótese, en los adjetivos, el Ablat. sing. en *-ī*.
+
+.Table A
+[options="header", width="40%", float="right"]
+|===
+| Ta | Tb | Tc | Td | Te
+| a | b | c | d | e
+| aa | bbbb | cccc | dd | eee
+|===
+
+.Table B
+[options="header", width="40%", float="left"]
+|===
+| Ta | Tb | Tc | Td | Te
+| a | b | c | d | e
+| aaa | bbbb | ccc | ddd | eeee
+|===

@@ -1,0 +1,59 @@
+== Morfologia
+
+*§9* PARTES DE LA ORACIÓN.–  Las partes de la oración en latín son ocho: sustantivo,
+adjetivo, pronombre, verbo, adverbio, preposición, conjunción e interjección.
+
+Las partes de la oración se dividen en variables e invariables. Son variables:
+sustantivo, adjetivo, pronombre y verbo.
+
+Son invariables: adverbio, preposición, conjunción e interjección.
+
+El latín carece de artículo, y en la traducción al castellano hay que suplirlo.
+El sentido nos indicará en cada caso si debemos usar el artículo definido o el
+indefinido. Así *rosa* deberá traducirse, según los casos, *la rosa* o *una rosa*;
+amici, *los amigos* o *unos amigos*. 
+
+*§10* GÉNEROS.–  El latín posee tres géneros: *masculino, femenino y neutro*.
+
+En general son masculinos los nombres de varón y oficio de varón, pueblos, ríos,
+vientos y meses.
+
+Son femeninos los de mujer y oficios de mujer, árboles, ciudades, países e islas.
+
+Los nombres neutros que por lo común se refieren a cosas inanimadas, suelen
+distinguirse de los demás por terminaciones especiales.
+
+*§11* NÚMERO.–  Las palabras variables tienen en latín dos números, como en
+castellano, _singular y plural_.
+
+*§12* CASOS.– Las distintas funciones que un nombre puede desempeñar en la oración,
+que en castellano se expresan por medio de preposiciones, en latín se indican
+mediante terminaciones distintas, llamadas desinencias. Las formas que revisten
+los nombres al tomar las distintas desinencias, se llaman _casos_. El nombre latino
+tiene seis casos:
+
+*Nominativo, Vocativo, Acusativo, Genitivo, Dativo y Ablativo.*
+
+*§13* LA DECLINACIÓN.–  El conjunto de los seis casos en que un nombre puede
+encontrarse, tanto en singular como en plural, recibe el nombre de _declinación_.
+
+*§14* TEMA, RAÍZ.–  Lo que queda de un nombre al separar de él las desinencias de
+caso recibe el nombre de _tema_. Así *rosa*-, *domino*-, *leg*-, *navi*-, *curru*-,
+*die*- son temas de *rosa*, *dominus*, *lex*, *navis*, *currus*, *dies*, respectivamente.
+
+*Raíz* es lo que queda de una palabra una vez se ha separado de ella todos los prefijos
+y sufijos; suele ser común a una familia de palabras, y es el elemento portador
+del sentido fundamental de éstas. Así *am*- es la raíz de todo el grupo *amo*,
+*amor*, *amicitia*, *amator*, *amicus*, etc.
+
+*§15* LAS CINCO DECLINACIONES.–  Ya primitivamente para un caso dado no siempre
+había una sola desinencia. Pero sobre todo, al  unirse la desinencia a la última
+letra del tema, se produjeron una serie de fenómenos fonéticos que terminaron por
+romper la antigua unidad de la declinación. Así nacieron las cinco declinaciones
+latinas, que nosotros distinguimos por la desinencia del Genitivo singular:
+
+NOTE: 1ra Declinación: Genitivo singular: -**ae** +
+2da Declinación: Genitivo singular: -**i** +
+3ra Declinación: Genitivo singular: -**is** +
+4ta Declinación: Genitivo singular: -**us** +
+5ta Declinación: Genitivo singular: -**ei**

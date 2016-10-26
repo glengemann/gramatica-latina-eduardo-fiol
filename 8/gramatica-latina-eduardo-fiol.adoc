@@ -1,0 +1,31 @@
+= Gramática De La Lengua Latina: Morfología y Nociones de Sintaxis
+Eduardo Valentí Fiol (†)
+// Configuración
+//:media: prepress
+:doctype: book
+
+:toc:
+
+Edición solo de uso educativo sin fin de lucro.
+
+include::0_advertencia.adoc[]
+
+include::1_generalidades.adoc[]
+
+include::2_morfologia.adoc[]
+
+include::3_1ra_declinacion.adoc[]
+
+include::2da_declinacion.adoc[]
+
+include::3ra_declinacion.adoc[]
+
+include::_adjetivo.adoc[]
+
+include::_oracion_partes.adoc[]
+
+include::_uso_casos.adoc[]
+
+include::_conjuncion.adoc[]
+
+include::_apendice.adoc[]

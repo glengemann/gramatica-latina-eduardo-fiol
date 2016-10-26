@@ -1,0 +1,24 @@
+== Uso de los Casos
+
+*§254* NOMINATIVO SUJETO. El nominativo es el caso del sujeto del verbo
+que está en modo personal:
+
+NOTE: Exercitus rediit, _el ejército regresó_.
+
+*§255* NOMINATIVO PREDICADO. El predicado nominal con un verbo copulativo
+en modo personal, va en nominativo:
+
+NOTE: Animus immortalis est, _el alma es inmortal_.
+
+*§256* VERBOS COPULATIVOS. Además de *esse*, hay una serie de verbos que admiten
+un predicado nominal en nominativo, referido al sujeto. Son los que indican «estado»
+o «apariencia», y los pasivos que significan «ser llamado», «ser juzgado», «ser nombrado»,
+etc.:
+
+[NOTE]
+====
+. Caesar victor evasit, _César salió vencedor_.
+. Socrates sapientissimus mihi videtur, _Sócrates me parece el más sabio_.
+. Iustitia erga parentes pietas nominatur, _la justicia hacia los padres se llama piedad_
+. Consules creatur Caesar et Servilius, _son nombrados cónsules César y Servilio_
+====

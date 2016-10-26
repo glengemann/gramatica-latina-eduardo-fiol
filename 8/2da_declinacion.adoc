@@ -1,0 +1,150 @@
+== Segunda Declinación
+
+=== (Tema en -o)
+Genitivo: -i
+
+. Los nombres de la Segunda Declinación se dividen en tres grupos, atendiendo a la terminación del Nominativo singular:
++
+.. Nombres en *-us*. Substantivos y adjetivos masculinos y algunos substantivos femeninos.
++
+.. Nombres en *-er*. Sunstantivos y adjetivos masculinos.
++
+.. Nombres en *-um*. Substantivos y adjetuvos neutros.
++
+[format="csv", options="header"]
+|===
+,Singular,Plural
+NOMINATIVO, -us, -us
+VOCATIVO, -er, -us
+ACUSATIVO, sd, us
+GENITIVO, sd, us
+DATIVO, sd, us
+ABLATIVO, sd, su
+|===
+
+. NOMBRES EN *-us*. Paradigmas: Substantivo, *populus*, el pueblo. Adjetivo, *bonus*, bueno.
++
+[format="csv", options="header"]
+|===
+,Singular,Plural,,Singular,Plural
+NOMINATIVO,populus,populi,,bonus,boni
+VOCATIVO,popule,populi,,bone,boni
+ACUSATIVO,populum,populos,,bonum,bonos
+GENITIVO,populi,populorum,,boni,bonorum
+DATIVO,populo,populis,,bono,bonis
+ABLATIVO,populo,populis,,bobo,bonis
+|===
+
+. GÉNERO. La mayoría de los substantivos en *-us* son del género masculino.
++
+De acuerdo con la regla general de los géneros (véase 10), son _femeninos_ los nombres de árbol: *pinus*, _pino_, *fagus*, _haya_, *pirus*, _peral_, *malus*, _manzano_, etc., y algunos de ciudades: *Corinthus*, _Corinto_, *Rhodus*, _Rodas_, y también *Cyprus*, _Chipre_, y *Aegyptus*, _Egipto_.
++
+Es asimismo femenino *humus*, _la tierra_.
++
+Son neutros: *vulgus*, _vulgo_, *virus*, _veneno_ y *pelagus*, _piélago_, _mar_.
+
+. PARTICULARIDADES.
++
+.. El Vocativo. Los nombres en *-us* de la segunda declinación son los únicos que tienen, en singular, el Vocativo distinto del Nominativo.
++
+.. Nombres en *-ius*. Los substantivos terminados en *-ius* forman el Vocativo singular en *-is*.
++
+[source]
+--
+  filius, Voc. sing. fili
+  Antonius, Voc. sing. Antoni
+--
++
+.. El nombre deus, gen. dei, _dios_, carece de Vocativo sing. El plural se declina así:
++
+[source]
+--
+  N. V. di (o dei)
+  Ac. deos
+  G. deorum o deum
+  D. Ab. dis (o deis)
+--
+
+. NOMBRES EN *-er*. La única diferencia que distingue la declinación de los nombres en *-er* de la de los en *-us* consiste en que aquéllos forman el Vocativo sing. igaul al Nominativo.
++
+Paradigmas: sunstantivo: *ager*, gen. *agri*, _el campo_; adjetivo: *pulcher*, gen. *pulchri*, _hermoso_.
++
+[format="csv", options="header"]
+|===
+,Singular,Plural,,Singular,Plural
+NOMINATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
+VOCATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
+ACUSATIVO,agr**um**,agr**os**,,pulchr**um**,pulchr**os**
+GENITIVO,ag**ri**,agr**orum**,,pulch**ri**,pulchr**orum**
+DATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+ABLATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+|===
++
+La mayor parte de los nombres en **-er** pierden en los demás casos la *-e-* del Nom. Voc. singular.
+Hay algunos, sin embargo, que la conservan: substantivo: *puer*, _niño_; adjetivo: *tener*, _tierno_:
++
+[format="csv", options="header"]
+|===
+,Singular,Plural,,Singular,Plural
+NOM. VOC.,pu**er**,pue**ri**,,ten**er**,tene**ri**
+ACUSATIVO,puer**um**,puer**os**,,tener**um**,tener**os**
+GENITIVO,pue**ri**,puer**orum**,,tene**ri**,tener**orum**
+DAT. ABL.,puer**o**,puer**is**,,tener**o**,tener**is**
+|===
++
+TIP: Como *puer* se declinan los substantivos *socer*, _suegro_, *gener*, _yerno_, *vesper*, _la tarde_, *adulter, _adúltero_, *Liber*, _el dios Baco_, y el plural *liberi*, *orum*, _los hijos_; como *tener*, los adjetivos *asper*, _áspero_, *liber*, _liber_, *miser*, _desgraciado_, *lacer*, _desgarrado_, *gibber*, _jorobado_ y los compuestos con *-fer* y *-ger*, como *mortifer*, _mortífero_, *aliger*, _alado_.
++
+TIP: Como *puer* se declina también *vir*, gen. *viri*, _varón_, y sus compuestos, como *triumvir*, _triunviro_, *semivir*, _afeminado_, etc.
++
+TIP: Nótese también el adjetivo *satur*, gen. *saturi*, _saciado_.
++
+GÉNERO. Los substantivos y adjetivos en *-er* son todos masculinos.
+
+. NOMBRES EN *-em*.
++
+GÉNERO. Todos los substantivos y adjetivos en *-um* son, sin excepción, neutros.
+
+. REGLA GENERAL SOBRE LA DECLINACIÓN DE LOS NEUTROS. Los substantivos y adjetivos _neutros_, sean de la declinación que fueren, forman siempre *iguales* los tres casos *Nominativo, Vocativo y Acusativo*.
++
+En plural estos tres casos tienen siempre la desinencia *-a*.
++
+Tercera Declinación
++
+(Temas en consonante y en -i)
++
+Genitivo -is
++
+. La Tercera Declinación comprende substantivos y adjetivos de los tres géneros. Los nombres de esta declinación se dividen en dos grandes grupos: nombres de tema en consonate y nombres de tema en *-i*.
++
+[format="csv", options="header"]
+|===
+,Singular,Plural,,Singular,Plural
+NOMINATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
+VOCATIVO,ag**er**,ag**ri**,,pulch**er**,pulch**ri**
+ACUSATIVO,agr**um**,agr**os**,,pulchr**um**,pulchr**os**
+GENITIVO,ag**ri**,agr**orum**,,pulch**ri**,pulchr**orum**
+DATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+ABLATIVO,agr**o**,agr**is**,,pulchr**o**,pulchr**is**
+|===
++
+. NOMBRES PARISÍLABOS E IMPARISÍLABOS. Se llaman nombres parisílabos los que en el Genit. sing. tienen el mismo número de sílabas que en el Nominativo. Ejs:
++
+[source]
+--
+  Nom. hos-tis, Genit. hos-tis
+  Nom. nu-bes, Genit. nu-bis
+  Nom. ma-re, Genit. ma-ris
+--
++
+Nombres imparisílabos son los que en el Genit. sing. tienen una sílaba más que en el Nominativo:
++
+[source]
+--
+  Nom. con-sul, Genit. con-su-lis
+  Nom. rex, Genit. re-gis
+  Nom. ci-vi-tas, Genit. si-vi-ta-tis
+--
++
+En general, y salvo las excepciones que se dirán, los nombres de tema en -i son parisílabos, e imparisílabos los de tema en consonante.
+
+. DIFERENCIAS EN LA DECLINACIÓN. Los nombres de tema en consonante (imparisílabos) tienen en el _Genit. plur._ la terminación *-um*, en el _Nom. Voc. Acus. plur. neutro_, *-a*. Los de tema en *-i* (parisílabos) añaden una *i* ante estas terminaciones: _Genit. pl._ *-ium*, _Nom. Voc. Acus. pl. neutro_ *-ia*. Además, los adjetivos de los dos temas y algunos substantivos de tema en *-i* tienen en el _Ablat. sing._ *-i* en vez de *-e*.
