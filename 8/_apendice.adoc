@@ -45,3 +45,34 @@ de *docere*, _enseñar_.
 +
 *-cŭlum*: *ferculum*, _litera_, de *fero*, _llevar_; *vehiculum*, _vehículo_, de *veho*,
 _arrastrar_.
++
+*-crum*: *aratrum*, _arado_, de _aro_, _arar_.  (Estos sufijos indican generalmente
+el medio de realización y la realización misma de la acción).
++
+*-a*: *scriba*, _escribano_, de *scribere*, _escribir_; *incola*, _habitante_, de *incolo*,
+_habitar_.
++
+*-ium*: *gaudium*, _gozo_; de *gaudere*, _alegrarse_.
++
+.. Las terminaciones de los substantivos derivados del tema de
+supino son:
++
+*-tor* (masc.) y *-trix* (fem.): *victor*, _vencedor_ y *victrix*, _vencedora_, de
+*vincere*, *victum*, _vencer_; *auctor*, _autor_, de *ago*, *actum*, hacer;
+*fautor*, _favorecedor_ y *fautrix*, _favorecedora_, de *favere*, *fautum*,
+_favorecer_ (indican el autor de la acción).
++
+*-sor*: *tonsor*, _peluquero_, de *tondere*, *tonsum*, _esquilar_.
++
+*-tio*: *actio*, _acción_, de *agere*, *actum*, _hacer_; *inventio*, _hallazago_, de *invenire*,
+*inventum*, _hallar_.
++
+*-sio*: *avulsio*, _desgaje_, de *avello*, *avulsum*, _arrancar_.
++
+*-tus*: *motus*, _movimiento_, de *moverse*, *motum*, _mover_; *conventus*, _asamblea_,
+de *convenio*, *conventum*, _reunirse_.
++
+*-sus*: *cursus*, _carrera_, de *curro*, *cursum*, _correr_.
++
+*-ŭra*: *pictura*, _pintura_, de *pingo*, *pictum*, _pintar_. (Estos sufijos forman
+nombres expresando la acción).
