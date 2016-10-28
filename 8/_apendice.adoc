@@ -76,3 +76,15 @@ de *convenio*, *conventum*, _reunirse_.
 +
 *-ŭra*: *pictura*, _pintura_, de *pingo*, *pictum*, _pintar_. (Estos sufijos forman
 nombres expresando la acción).
+
+Algunas desinencias, como *-monia*, *-ela*, se añaden a veces al tema
+de presente y a veces al tema de supino. Ejemplos: tema de pres.:
+*alimonia*, _limosna_, de *alere*, _alimentar_; *querimonia*, _queja_, de *queror*,
+_quejarse_; *candela*, _cirio_, de *candere*, _brillar_. Tema de sup.: *parsimonia*,
+_economía_, de *parcere*, *parsum*, _ahorrar_; *tutela*, _tutela_, de *tueri*,
+*tutum*, _proteger_.
+
+B. Substantivos denominativos.
+  a. Los substantivos se derivan de otros substantivos por medio
+  de los siguientes sufijos: +
+  *-a*: dea, _diosa_, de *deus*; *magistra*, _maestra_, de *magister*.
