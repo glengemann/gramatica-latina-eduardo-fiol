@@ -1,5 +1,11 @@
 # gramatica-latina-eduardo-fiol
 
+## Asciidoc
+
+a2x -f pdf gramatica-latina-eduardo-fiol.adoc
+
+## Asciidoctor
+
 ## HTML
 
 asciidoctor -d book 2da_declinacion.adoc

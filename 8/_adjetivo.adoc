@@ -1,6 +1,6 @@
 == El Adjetivo
 
-*§50* Los adjetivos latinos se declinan como los substantivos y se dividen en
+*§55* Los adjetivos latinos se declinan como los substantivos y se dividen en
 dos grandes clases según la declinación que siguen:
 
 . Los que se declinan según la 1ra y la 2da declinaciones.
@@ -9,9 +9,10 @@ dos grandes clases según la declinación que siguen:
 La primera clase comprende los llamados adjetivos de _tres_ terminaciones;
 la segunda, los de _dos_ y de _una_ terminación.
 
-*§51* ADJETIVOS DE TRES TERMINACIONES. Estos adjetivos poseen tres formas:
-una en -us o en -er, para el masculino, perteneciente a la 2da declinación;
-una en -a, para el femenino, perteneciente a la 1ra declinación; y una en -um,
+*§56 ADJETIVOS DE TRES TERMINACIONES*.
+Estos adjetivos poseen tres formas:
+una en *-us* o en *-er*, para el masculino, perteneciente a la 2da declinación;
+una en *-a*, para el femenino, perteneciente a la 1ra declinación; y una en *-um*,
 para el neutro, perteneciente a la 2da declinación neutra.
 
 [NOTE]
@@ -22,3 +23,16 @@ Paradigmas:
 . pulcher, pulchra, pulchrum, _hermoso_
 . tener, tenera, tenerum, _tierno_
 ====
+
+.Adjetivos terminados en *us*, *a* y *um*
+[cols="^,^,^,^,^,^,^"]
+|===
+.2+| 3+h| Singular 3+h| Plural
+| Masculino | Femenino | Neutro | Masculino | Femenino | Neutro
+s| NOMINATIVO | bon**ŭs** | bon**ă** | bon**um** | bon**ī** | bon**ae** | bon**ă**
+s| VOCATIVO | bon**ĕ** | bon**ă**  | bon**um** | bon**ī** | bon**ae** | bon**ă**
+s| ACUSATIVO | bon**um** | bon**am** | bon**um** | bon**ōs** | bon**ās** | bon**ă**
+s| GENITIVO | bon**ī** | bon**ae** | bon**ī** | bon**ōrum** | bon**ārum** | bon**ă**
+s| DATIVO | bon**ō** | bon**ae** | bon**ō** 3+| bon**ī**
+s| ABLATIVO | bon**ō** | bon**ā** | bon**ō** 3+| bon**ī**
+|===

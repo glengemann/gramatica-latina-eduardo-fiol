@@ -3,8 +3,18 @@ Eduardo Valentí Fiol (†)
 // Configuración
 //:media: prepress
 :doctype: book
-
+:lang: es
 :toc:
+:toc-title: Inhaltsverzeichnis
+:caution-caption: Achtung
+:important-caption: Wichtig
+:note-caption: Hinweis
+:tip-caption: Tipp
+:warning-caption: Warnung
+:appendix-caption: Anhang
+:example-caption: Beispiel
+:figure-caption: Abbildung
+:table-caption: Tabelle  
 
 Edición solo de uso educativo sin fin de lucro.
 
@@ -21,6 +31,8 @@ include::2da_declinacion.adoc[]
 include::3ra_declinacion.adoc[]
 
 include::_adjetivo.adoc[]
+
+include::_adverbio.adoc[]
 
 include::_oracion_partes.adoc[]
 

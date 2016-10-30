@@ -1,0 +1,69 @@
+// asciidoc
+:lang: es
+
+== El Adverbio
+
+*§227 Observaciones*.
+
+. Dos negaciones equivalen, en latín, a una afirmación.
+*Non* yendo en la frase después de *nemo* (_nadie_)
+*nihil* (_nada_), *nunquam* (_nunca_), contrarrestra totalmente el valor negativo
+de estas palabras.
++
+.Frases Negativas
+====
+*Nemo hoc facit*, _Nadie hace esto_. +
+*Nunquam id accidit*, _Nunca ocurre esto_.
+====
++
+.Frases Afirmativas
+====
+*Nemo hoc non facit*, _Todos hacen esto_. (lit. _No hay nadie que no haga esto_). +
+*Nunquam id non accidit*, _Siempre ocurre esto_. (lit. _No hay momento en que esto no ocurra_).
+====
++
+[TIP]
+====
+Así, +
+*nemo... non* equivale a *omnes*, _todo el mundo_. +
+*nihil... non* equivale a *omnia*, _todas las cosas_, _todo_. +
+*nunquam.. non* equivale a *semper*, _siempre_.
+====
+
+. Si la negación *non* precede a *nemo*, *nihil*, *nunquam*, etc.,
+ambas negaciones se contrarrestan en parte, y el resultado es afirmativo.
++
+====
+*Non nemo hoc facit*, _Alguien hace esto_. (lit. _No es verdad que nadie haga esto_). +
+*Non nunquam id accidit*, _A veces ocurre esto_. (lit. _No es verdad que nunca ocurra esto_).
+====
++
+[TIP]
+====
+Así, +
+*non nemo* equivale a *aliqui*, _algunos_. +
+*non nihil* equivale a *aliquid*, _algo_. +
+*non nunquam* equivale a *aliquando*, _a veces_. +
+Asimismo *non nulli* (o nonnulli) significa _algunos_.
+====
+
+. Y _no_ se traduce por *neque* o *nec*.
++
+====
+_Huyeron y no trabaron combate con los enemigos_:
+*Fugerunt  neque cum  hostibus congressi sunt*.
+====
+
+. _Ni... ni_ se traduce por *neque... neque* o *nec... nec*.
++
+====
+_Ni las riquezas ni los horrores nos hacen felices_:
+*Neque divitiae neque horrores nos beatos reddunt*.
+====
+
+. _Ni, ni tan sólo_, se traduce por *ne... quidem*, intercalando la
+palabra sobre la cual recae la negación:
++
+====
+_Ni tan sólo a él he visto_: *Ne eum quidem vidi*. +
+_Ni le he visto_: *Eum ne vidi quidem*.
