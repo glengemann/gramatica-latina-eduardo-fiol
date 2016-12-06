@@ -2,6 +2,41 @@
 
 == La Oración y sus partes
 
+*§254* La parte central más importante de la oración
+es el verbo. Un verbo solo, puede constituir una oración.
+
+Ejemplos:
+
+. *Pluit*: _llueve_.
+. *Esurio*: _Tengo hambre_.
+
+Generalmente el verbo va acompañado de un sujeto expreso.
+
+Ejemplo: *Gaius scribit*: _Cayo escribe_.
+
+*§255* Cuando el verbo de la oración es *sum* con valor
+de verbo atributivo, el atributo, que determina o califica al
+sujeto, se pone en el mismo caso que éste.
+
+Ejemplo: *Arbor est alta*: _El árbol es alto_.
+
+En estos casos la función del verbo *sum* consiste en referir
+el atributo al sujeto, por lo que recibe la denominación
+de _verbo copulativo_ o _cópula_.
+
+*§256* Además del verbo *sum* hay en latín ciertos verbos
+pasivos que refieren un atributo al sujeto y son llamados,
+por tanto, copulativos, como *vocor*, _soy llamado_; *creor*, _soy nombrado_;
+*iudicor*, _soy considerado_; *fio*, _soy hecho_.
+
+Ejemplos:
+
+. *Numa creatus est rex*: _Numa fué nombrado rey_
+(*rex* _atributo, en nominativo, concordando con_
+Numa).
+
+. *Dies fit nox*: _El día se hace noche_.
+
 === Concordancia
 
 *§259/§249 Concordancia del verbo con el sujeto*
