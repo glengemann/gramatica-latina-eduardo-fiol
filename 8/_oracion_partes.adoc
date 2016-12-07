@@ -37,6 +37,16 @@ Numa).
 
 . *Dies fit nox*: _El día se hace noche_.
 
+*§257* Cuando estos verbos están en la voz activa, el
+atributo se refiere al complemento directo y está, como éste,
+en Acusativo.
+
+Ejemplos:
+
+. *Fac nos beatos*: _Haznos felices_ (*beatos*, atributo de nos).
+
+. *Romani Numan regem creaverunt*: _Los romanos nombraron rey a Numa_.
+
 === Concordancia
 
 *§259/§249 Concordancia del verbo con el sujeto*
