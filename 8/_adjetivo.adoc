@@ -36,3 +36,29 @@ s| GENITIVO | bon**ī** | bon**ae** | bon**ī** | bon**ōrum** | bon**ārum** | 
 s| DATIVO | bon**ō** | bon**ae** | bon**ō** 3+| bon**ī**
 s| ABLATIVO | bon**ō** | bon**ā** | bon**ō** 3+| bon**ī**
 |===
+
+*§57. Adjetivos de dos terminaciones*. -- Siguen la
+3ra declinación y tienen dos terminaciones, una en *-is* para
+el masc. y fem. y una en *-e* para el neutro. Se declinan como
+los temas en *-i-* y hacen el Abl. sing. en *-i*.
+
+.Paradigmas: *fortis*, *e*, _valeroso_.
+[cols="^,^,^,^,^,^,^"]
+[cols="^,^,^,^,^",]
+|===
+.2+| 2+h| Singular 2+h| Plural
+h| Masc. Fem. h| Netro h| Masc. Fem. h| Neutro
+s| NOMINATIVO .2+^.^| fortis .3+^.^| fortĕ .3+^.^| fortēs .3+^.^| fortiă
+s| VOCATIVO
+s| ACUSATIVO | fortem
+s| GENITIVO 2+| fortĭs 2+| fortium
+s| DATIVO 2+| fortī 2+| fortĭbus
+s| ABLATIVO 2+| fortī 2+| fortībus
+|===
+
+Algunos adjetivos de este tipo presentan en el Nom. y
+Voc. sing. tres formas: una en *-er* para el masc. una en *-is*
+para el fem. y otra en *-e* para el neutro. Ejemplo: *acer*,
+*acris*, *acre*, _agudo_.
+
+*§*. --
