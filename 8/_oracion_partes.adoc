@@ -47,6 +47,31 @@ Ejemplos:
 
 . *Romani Numan regem creaverunt*: _Los romanos nombraron rey a Numa_.
 
+*§258 Aposición*. Cuando un substantivo se refiere a
+otro para dar su denominación o explicar alguna parte de
+su significado, se dice que está en aposición con él.
+
+Ejemplos:
+
+. *Marius consul triumphavit*: _El cónsul Mario obtuvo el triunfo_.
+
+. *Urbs Roma, caput Italiae, ad Tiberim sita est*: _La ciudad de Roma,
+capital de Italia, está situada junto al Tiber_.
+
+Obsérve cómo en este ejemplo *caput Italiae* es aposición
+a *urbs Roma*, y de estas dos últimas palabras, *Roma* es,
+a su vez, aposición de *urbs*.
+
+La aposición puede suprimirse sin que se altere el sentido
+general de la oración.
+
+Ejemplos:
+
+. *Marius triumphavit*. -- *Urbs ad Tiberim sita est.*
+
+Si se suprime el atributo, en cambio, la frase queda sin
+sentido.
+
 === Concordancia
 
 *§259/§249 Concordancia del verbo con el sujeto*

@@ -1,0 +1,631 @@
+= Elementos de Sintaxis
+
+== La Oración y sus partes
+
+*§254* La parte central más importante de la oración
+es el verbo. Un verbo solo, puede constituir una oración.
+
+.{zwsp}
+====
+. *Pluit*: _llueve_.
+. *Esurio*: _Tengo hambre_.
+====
+
+Generalmente el verbo va acompañado de un sujeto expreso.
+
+.{zwsp}
+====
+*Gaius scribit*: _Cayo escribe_.
+====
+
+*§255* Cuando el verbo de la oración es *sum* con valor
+de verbo atributivo, el atributo, que determina o califica al
+sujeto, se pone en el mismo caso que éste.
+
+.{zwsp}
+====
+*Arbor est alta*: _El árbol es alto_.
+====
+
+En estos casos la función del verbo *sum* consiste en referir
+el atributo al sujeto, por lo que recibe la denominación
+de _verbo copulativo_ o _cópula_.
+
+*§256* Además del verbo *sum* hay en latín ciertos verbos
+pasivos que refieren un atributo al sujeto y son llamados,
+por tanto, copulativos, como *vocor*, _soy llamado_; *creor*, _soy nombrado_;
+*iudicor*, _soy considerado_; *fio*, _soy hecho_.
+
+Ejemplos:
+
+. *Numa creatus est rex*: _Numa fué nombrado rey_
+(*rex* _atributo, en nominativo, concordando con_
+Numa).
+
+. *Dies fit nox*: _El día se hace noche_.
+
+*§257* Cuando estos verbos están en la voz activa, el
+atributo se refiere al complemento directo y está, como éste,
+en Acusativo.
+
+Ejemplos:
+
+. *Fac nos beatos*: _Haznos felices_ (*beatos*, atributo de nos).
+
+. *Romani Numan regem creaverunt*: _Los romanos nombraron rey a Numa_.
+
+*§258 Aposición*. Cuando un substantivo se refiere a
+otro para dar su denominación o explicar alguna parte de
+su significado, se dice que está en aposición con él.
+
+Ejemplos:
+
+. *Marius consul triumphavit*: _El cónsul Mario obtuvo el triunfo_.
+
+. *Urbs Roma, caput Italiae, ad Tiberim sita est*: _La ciudad de Roma,
+capital de Italia, está situada junto al Tiber_.
+
+Obsérve cómo en este ejemplo *caput Italiae* es aposición
+a *urbs Roma*, y de estas dos últimas palabras, *Roma* es,
+a su vez, aposición de *urbs*.
+
+La aposición puede suprimirse sin que se altere el sentido
+general de la oración.
+
+Ejemplos:
+
+. *Marius triumphavit*. -- *Urbs ad Tiberim sita est.*
+
+Si se suprime el atributo, en cambio, la frase queda sin
+sentido.
+
+=== Reglas de concordancia
+
+*§259 Concordancia del verbo con el sujeto*
+El verbo concuerda con su sujeto en número y persona,
+siguiendo las mismas reglas que el castellano:
+
+[NOTE]
+====
+*Hostis fugit*, _el enemigo huye_. +
+*Cicero et Terentia valent*, _Cicerón y Terencia están bien_. +
+*Si tu et Tullia valetis, ego et Cicero valemus*,
+_si tú y Tulia estáis bien, yo y Cicerón estamos bien_.
+====
+
+(*Valetis* en segunda persona plural, porque *tu et Tulia*
+  equivale a *vos*; *valemus* en primera persona plural, porque
+  *ego et Cicero* equivale a *nos*.)
+
+*§260 Del Atributo con el Sujeto.* El atributo que
+se refiere al sujeto se pone en el mismo caso que éste, esto
+es, generalmente en nominativo; el referido al complemento
+directo se pone en acusativo. Siempre que es posible el atributo
+concuerda también con el sujeto en género y número.
+
+El atributo que se refiere a dos o más sujetos unidos por
+la conjunción *et* se pone en plural. En cuanto al género:
+
+. Si son nombres de persona de distinto género, se
+pone en masculino:
++
+.{zwsp}
+====
+*Frater et soror beati erant*: _El hermono y la hermana
+no eran felices_.
+====
+
+. Si son nombres de cosas de distnto género, se pone
+en neutro.
++
+.{zwsp}
+====
+*Domus et templum incensa sunt*: _La casa y el templo
+fueron incendiados_.
+====
+
+*§261 De la Aposición.* La aposición concuerda en
+caso con el nombre al cual se refiere.
+
+NOTE: *Athenae, caput Graeciae, antiqua est urbs*: _Atenas,
+capital de Grecia, es una ciudad antigua_.
+
+(*Athenae*, en nominativo; *caput* también. Obsérvese, en
+  cambio, que *Athenae*, es plural femenino, y *caput* singular
+  neutro).
+
+NOTE: *Cicero fratrem Quintum monet*: _Cicerón aconseja a
+su hermano Quinto_.
+
+*§262 Del Adjetivo Calificativo*. El adjetivo calificativo
+concuerda en género, número y caso con el nombre
+que se refiere.
+
+.{zwsp}
+====
+*Bona mater*: _Una buena madre_.
+*Banus pater*: _Un buen padre_.
+====
+
+Si el adjetivo se refiere a dos o más substantivos, concuerda
+con el más próximo.
+
+.{zwsp}
+====
+*Bonus pater et mater*: _Un buen padre y una buena madre_
+====
+
+*§263 Del Relativo con su Atecedente*. El relativo
+concuerda con su antecedente en género y número; en cuanto
+al caso, toma el que le corresponde según la función que
+desempeña en su oración.
+
+.{zwsp}
+====
+*Duas vias occupavit, quibus hostes exierant*: _Ocupó
+ los dos caminos, por los que habían salido los
+ enemigos_.
+====
+
+=== Uso de los modos
+
+*§264. El Indicativo*. -- El indicativo es el modo de la
+realidad, expresada por una afirmación o negación.
+
+.{zwsp}
+====
+*Caesar scribit*: _César escribe_.
+*Non legitus*: _No leemos_.
+====
+
+*§265. El Subjuntivo*. -- El subjuntivo latino expresa
+orden o prohibición, deseo, condición, concesión y deliberación.
+
+.{zwsp}
+====
+*Eamus*: _Vayámonos_ (orden).
+*Ne legeris*: _No leas_ (prohibición).
+*Utinam vivas*: _¡Ojalá vivas!_ (deseo).
+*Libenter veniat*: _Que venga de buena gana_ (concesión).
+*Sit dives, at non est felix*: _Supongamos que sea rico,
+pero no es feliz_ (suposición).
+====
+
+*§266. El Imperativo*. -- Una orden en la 2da persona del
+singular o plural se expresa por medio del Imperativo presente
+o futuro, según que deba ejecutarse inmediatamente o
+en el tiempo a venir.
+
+.{zwsp}
+====
+*Scribe*: _Escribe_.
+*Alteri saepe ignoscito, nunquam tibi*: _Perdona con
+frecuencia a otro, nunca a ti mismo_.
+====
+
+Una orden en la 1ra o 3ra persona singular o plural se
+expresa por medio del presente de subjuntivo.
+
+.{zwsp}
+====
+*Patriam amemus*: _Amemos la patria_.
+*Abeat*: _Que se vaya_.
+====
+
+*§267. Imperativo Negativo*. -- Una prohibición se expresa
+por *ne* y el presente o perfecto de subjuntivo.
+
+.{zwsp}
+====
+*Ne proficiscamur*: _No nos marchemos_.
+*Ne proficiscatur*: _Que no se marche_.
+*Hoc ne feceris*: _No hagas eso_.
+====
+
+Observación. -- Una prohibición en 2da persona puede
+expresarse también por las formas *noli*, *nolite* (del imperativo
+del verbo *nolle*) seguidas del infinitivo del verbo que se
+conjuga (véase §189, 4.°),
+
+.{zwsp}
+====
+*Noli cessare*: _No estés sin hacer nada_.
+====
+
+*§268. El Infinitivo*. -- El infinitivo es propiamente un
+nombre verbal y como tal puede ser sujeto, como en:
+
+.{zwsp}
+====
+*Dormire est utile*: _Dormir es útil_.
+====
+
+O complemento directo, como en:
+
+.{zwsp}
+====
+*Cupio dormire*: _Deseo dormir_.
+====
+
+*§269. Oraciones de Infinitivo*. -- Una oración complemento
+de un verbo que significa _decir_ o _creer_ se construye
+poniendo el verbo _en infinitivo_ y a este verbo se le pone un
+sujeto _en acusativo_.
+
+.{zwsp}
+====
+*Credo eum venisse*: _Creo que él ha venido_ (literalmente:
+_Creo él "haber venido"_).
+====
+
+El infinitivo puede estar en presente, perfecto o futuro,
+según lo requiera el sentido:
+
+====
+*Exercitum Romam redire dicunt*: _Dicen que el ejército
+regresa a Roma_. +
+*Exercitum Romam*: _Dicen que el ejército
+regresó a Roma_. +
+*Exercitum Romam rediturum (esse) dicunt*: _Dicen
+que el ejército regresará a Roma_.
+====
+
+*§270. El Gerundio y el Gerundivo*. -- La función del
+gerundio es coadyuvar a la declinación del infinitivo, cuando
+éste haya de estar en los casos: genitivo, acusativo, dativo
+o ablativo.
+
+Cuando el gerundio haya de ir seguido de un complemento
+directo es, generalmente, reemplazado por el gerundivo
+(en *-ndus*, *-nda*, *-ndum*). El nombre que debería ser
+complemento del gerundio se pone en el caso que éste se
+habría puesto, y el gerundivo concuerda en género, número
+y caso con él.
+
+.{zwsp}
+====
+*Cupidus discendi*: _Deseoso de aprender_.
+*Cupidus litterarum discendarum*: _Deseoso de aprender las letras_.
+(en vez de: *Cupidus discendi litteras*).
+====
+
+*§271. El Supino en -um*. -- La forma en *-um* del supino
+sirve, acompañando un verbo que implique movimiento,
+para indicar la finalidad de la acción de este verbo.
+
+.{zwsp}
+====
+*Venio cenatum*: _Vengo a cenar_.
+====
+
+*§272. El Ablativo Absoluto*. -- Indicando el tiempo en
+que acaece la acción de un verbo principal, o la causa de
+ella, es frecuente en latín el uso de oraciones de participio
+constituídas por un participio en ablativo concertando con
+un substantivo, en ablativo también, que es su sujeto.
+
+.{zwsp}
+====
+*Tiberio imperante, Ihesus cruce adfixus est*: _Siendo
+emperador Tiberio, Jesús fué clavado en cruz_.
+*Hostibus victus, milites cessant*: _Ya que ha sido
+vencido el enemigo, los soldados están sin hacer nada_.
+====
+
+### Complementos de tiempo, lugar y medida
+
+*§273. Complementos de Tiempo*. -- El nombre que indica
+en qué momento tiene lugar una acción, se pone en ablativo.
+
+.{zwsp}
+====
+*Prima luce surgit*: _Se levanta a la aurora_.
+*Aestate*: _En verano_.
+*Hieme*: _En invierno_.
+====
+
+El nombre que indica cuánto tiempo dura una acción se
+pone en acusativo.
+
+.{zwsp}
+====
+*Multos annos vixit*: _Vivió muchos años_.
+====
+
+*§274. Complementos de Lugar. Pregunta ubi*. -- El
+nombre del lugar donde ocurre una acción se pone en ablativo
+con la preposición *in*.
+
+.{zwsp}
+====
+*Ambulat in horto*: _Se pasea por el jardin_.
+====
+
+Los nombres de ciudad o islas pequeñas se ponen en
+ablativo sin preposición.
+
+.{zwsp}
+====
+*Gadibus vixit*: _Vivió en Cádiz_.
+====
+
+*§275. Locativo*. -- Si el nombre de ciudad es singular de
+la 1ra o 2da declinación se pone en locativo (*-ae* para la 1ra declinación
+*-i* para la 2da).
+
+.{zwsp}
+====
+*Habitat Romae*: _Habita en Roma_.
+*Sami vivit*: _Vive en Samos_.
+====
+
+Observación. -- El locativo se conserva también en las
+expresiones: _en casa_, *domi*; _en el campo_, *ruri*.
+
+*§276. Pregunta quo*. -- El nombre de lugar _a donde_ se
+dirige un sujeto, se pone en acusativo con la preposición *in*.
+
+.{zwsp}
+====
+*Vinit in hortum*: _Vino al jardin_.
+====
+
+Los nombres de ciudad e islas pequeñas, así como *domus*
+y *rus*, se ponen en acusativo sin preposición.
+
+.{zwsp}
+====
+*Romam eo*: _Voy a Roma_.
+*Domum ibo*: _Iré a casa_.
+====
+
+*§277. Pregunta unde*. -- El nombre del lugar _de donde_
+se viene se pone en ablativo con la preposición *ex*.
+
+.{zwsp}
+====
+*Ex horto venit*: _Viene del jardin_.
+====
+
+Los nombres de ciudad e islas pequeñas, así como *domus*
+y *rus*, se ponen en ablativo sin preposición.
+
+.{zwsp}
+====
+*Romā profectus est*: _Salió de Roma_.
+====
+
+*§278. Pregunta qua*. -- El nombre del lugar por donde
+se pasa se pone en ablativo sin preposición:
+
+.{zwsp}
+====
+*Viā Appiā venit*: _Viene por la vía Apia_.
+====
+
+*§279. Complementos de Medida*. -- El complemento expresando
+medida de espacio se construye generalmente en acusativo.
+
+.{zwsp}
+====
+*Fossa ducentos pedes longa*: _Una fosa larga de doscientos pies_.
+*Tria milia passuum progeditur*: _Avanzó tres millas_.
+====
+
+### Uso de los casos
+
+#### I. Acusativo
+
+*§280.* Hemos visto los siguientes usos del acusativo:
+
+. Acusativo como _complemento directo_ de un verbo
+transitivo.
++
+.{zwsp}
+====
+*Navem video*: _Veo la nave_.
+====
+
+. Acusativo indicando extensión de espacio y duración
+de tiempo.
++
+.{zwsp}
+====
+*Tria milia passuum progressus est*: _Avanzó tres
+millas_.
+*Duos annos mansit*: _Se quedó dos años_.
+====
+
+. Acusativo indicando término de movimiento (pregunta
+*quo*), con o sin preposición *in*.
++
+.{zwsp}
+====
+*Cum in Italiam redieris*: _Cuando vuelvas a Italia_.
+*Abi domum*: _Vete a casa_.
+====
+
+*§281. Doble Acusativo*. -- Algunos verbos transitivos
+se construyen con dos acusativos, uno de persona y uno de
+cosa. El más usado es *docēre*, que significa a la vez *instruir*
+(a alguien) y _enseñar_ (alguna cosa).
+
+.{zwsp}
+====
+*Doceo pueros grammaticam*: _Enseño gramática a los
+niños_. (_Instruyo a los niños enseñándoles gramática_.)
+====
+
+También se usa este doble acusativo con el verbo *celare*
+_esconder_ (a alguien algo) y *rogare* _preguntar_.
+
+.{zwsp}
+====
+*Celavit te periculum*: _Te disimuló el peligro_.
+*Ciceronem sententiam rogavit*: _Preguntó a Cicerón
+su parecer_. (Interrogó a Cicerón pidiéndole
+su opinión.)
+====
+
+#### II. Dativo
+
+*§282. Dativo Complemento Indirecto. Dativo con verbos
+Transitivos e Intransitivos*. -- El dativo es el caso del
+complemento de atribución (o indirecto) de los verbos transitivos.
+
+.{zwsp}
+====
+*Dedi librum puero*: _Di el libro al niño_.
+====
+
+Se pone también en dativo el complemento de algunos
+verbos instransitivos.
+
+.{zwsp}
+====
+*Invidet mihi*: _Me envidia_.
+====
+
+*§283.* Dativo con el Verbo sum*. --
+
+a. Posesivo. Construído
+con el verbo *sum* el dativo expresa una idea de posesión.
++
+.{zwsp}
+====
+*Est patri meo domus*: _Mi padre tiene una casa_.
+====
++
+b. De efecto. Con el verbo *sum*, y con otros verbos
+también, indica muchas veces el dativo para qué sirve una
+cosa, o el efecto que una cosa ha de tener.
++
+Este dativo equivale a un predicado y como tal se traduce
+en castellano.
++
+.{zwsp}
+====
+*Ea res est impedimento*: _Esta cosa es un impedimento_.
+====
++
+Generalmente este dativo va acompañado de otro expresando
+la persona interesada.
++
+.{zwsp}
+====
+*Ea res est impedimento exercitui*: _Esta cosa es un
+impedimento para el ejercito_.
+====
+
+*§284. Dativo con Adjetivos*. -- Un cierto número de
+adjetivos llevan un complemento en dativo. Son los siguientes:
+
+. Los que significan _bueno para_, _útil a_, *utilis*, *bonus*,
+etcétera.
++
+.{zwsp}
+====
+*Utilis civitati*: _Útil al Estado_.
+*Ager bonus pecori*: _Campo bueno para el ganado_.
+====
+
+. _Vecino de_, *vicinus*, *finitimus*, etc.
++
+.{zwsp}
+====
+*Finitimus huic agro noster est*: _Nuestro campo es
+limítrofe de éste_.
+====
+
+. _Igual_, *par*; _desigual_, *impar*; _parecido_, *similis*; diferente,
+*dissimilis*.
++
+.{zwsp}
+====
+*Romani hostibus numero erant impares*: _Los romanos
+eran inferiores a los enemigos en número_.
+====
+
+#### III. Ablativo
+
+Hemos visto como el Ablativo desempeñaba en latín un
+gran número de funciones. Vamos a resumir aquí las principales
+de ellas.
+
+*§284 bis.* Ablativo, complemento circunstancial. --
+El ablativo sirve para expresar los complementos circunstaciales
+siguientes:
+
+a. De instrumento:
++
+====
+*Gladio pugnare*: _Luchar con la espada_.
+====
+
+b. De causa:
++
+====
+*Fame interiit*: _Murió de hambre_.
+====
+
+c. De manera:
++
+====
+*Aut vi aut fraude fit iniuria*: _La injusticia se comete
+o por violencia o por engaño_.
+====
+
+d. De lugar:
++
+====
+*Terra marique*: _Por tierra y por mar_. +
+*Athenis redit*: _Regresa de Atenas_.
+====
+
+e. De tiempo:
++
+====
+*Aestate serito*: _Siembra en verano_.
+====
+
+*§ *. --
+
+.{zwsp}
+====
+**: __.
+====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*§ *. --
+
+.{zwsp}
+====
+**: __.
+====

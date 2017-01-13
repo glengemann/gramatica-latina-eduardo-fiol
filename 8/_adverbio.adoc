@@ -64,6 +64,8 @@ _Ni las riquezas ni los horrores nos hacen felices_:
 . _Ni, ni tan sólo_, se traduce por *ne... quidem*, intercalando la
 palabra sobre la cual recae la negación:
 +
+.{zwsp}
 ====
 _Ni tan sólo a él he visto_: *Ne eum quidem vidi*. +
 _Ni le he visto_: *Eum ne vidi quidem*.
+====

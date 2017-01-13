@@ -1,8 +1,8 @@
-== Apéndice I
+## Apéndice I
 
-=== Formación de las palabras
+### Formación de las palabras
 
-==== Derivación y composición
+#### Derivación y composición
 
 Para formar palabras nuevas de otras ya existentes son posibles
 dos procedimientos: la _derivación_ y la _composición_.
@@ -17,7 +17,7 @@ adición de un prefijo o sufijo que modifica su estructura y sentido, pero
 que aislado no es ninguna palabra. Ejemplos: *audacia* de *audax*, *cursare* y
 *cursitare* de *currere*.
 
-==== Derivación
+#### Derivación
 
 Las palabras derivadas pueden ser substantivos, adjetivos, verbos
 y adverbios.
@@ -76,7 +76,7 @@ de *convenio*, *conventum*, _reunirse_.
 +
 *-ŭra*: *pictura*, _pintura_, de *pingo*, *pictum*, _pintar_. (Estos sufijos forman
 nombres expresando la acción).
-
++
 Algunas desinencias, como *-monia*, *-ela*, se añaden a veces al tema
 de presente y a veces al tema de supino. Ejemplos: tema de pres.:
 *alimonia*, _limosna_, de *alere*, _alimentar_; *querimonia*, _queja_, de *queror*,

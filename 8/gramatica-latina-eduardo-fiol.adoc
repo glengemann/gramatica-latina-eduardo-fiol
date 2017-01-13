@@ -14,7 +14,7 @@ Eduardo Valentí Fiol (†)
 :appendix-caption: Anhang
 :example-caption: Beispiel
 :figure-caption: Abbildung
-:table-caption: Tabelle  
+:table-caption: Tabelle
 
 Edición solo de uso educativo sin fin de lucro.
 
@@ -22,6 +22,10 @@ include::0_advertencia.adoc[]
 
 include::1_generalidades.adoc[]
 
+//  Morfologia
+//    Partes de la oración
+//    EL NOMBRE. Accidentes. Declinaciones
+//    Primera declinación
 include::2_morfologia.adoc[]
 
 include::3_1ra_declinacion.adoc[]
@@ -34,10 +38,15 @@ include::_adjetivo.adoc[]
 
 include::_adverbio.adoc[]
 
-include::_oracion_partes.adoc[]
-
-include::_uso_casos.adoc[]
-
 include::_conjuncion.adoc[]
+
+//  Elementos de sintaxis
+//    La oración y sus partes
+//      Reglas de concordancia
+//      Uso de los modos
+//      Complemento de tiempo, lugar y medida
+//      Uso de los casos
+//      Clasificación de las oraciones subordinadas
+include::_elementos_sintaxis.adoc[]
 
 include::_apendice.adoc[]
