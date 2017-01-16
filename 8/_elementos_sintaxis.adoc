@@ -588,13 +588,284 @@ e. De tiempo:
 *Aestate serito*: _Siembra en verano_.
 ====
 
-*§ *. --
+*§285*. Ablativo Sujeto Agente de los Verbos Pasivos. --
+Con los verbos pasivos, el sujeto que realiza la acción
+(_sujeto ajente_) se pone en ablativo. Si es nombre de persona
+lleva la preposición *a* o *ab*. Si es nombre de cosa, se
+porne en ablativo sin preposición.
 
 .{zwsp}
 ====
-**: __.
+*Caesar a Bruto interfectus est*: _César fué muerto por
+Bruto_. +
+*Alexander telo vulneratus est*: _Alejandro fué herido
+por un dardo_
 ====
 
+*§286*. Verbos que Rigen Ablativo. -- Rigen ablativo los
+verbos siguientes:
+
+. Los que expresan una idea de _abundancia_ o _privación_:
+*abundare*, _ser rico en_; *implēre*, _llenar de_; *carēre*, _carecer de_;
+*privare*, _privar de_.
+
+.{zwsp}
+====
+*Abundat templis*: _Abunda en templos_. +
+*Nulla re caret*: _No carece de nada_.
+====
+
+. Los deponentes:  *frui*, _gozar_; *fungi*, _desempeñar_;
+*potiri*, _apoderarse_; *uti*, _usar_; *vesci*, _alimentarse.
+
+.{zwsp}
+====
+*Navibus uti*: _Usar naves_. +
+*Commodis vitae frui*: _Gozar de los bienes de la vida_. +
+*Caesar urbe potitus est*: _César se apoderó de la ciudad_.
+====
+
+. Los verbos que significan _limpiar de_, _librar de_, _apartar de_,
+*purgare*, *liberare*, *prohibere*, etc.
+
+.{zwsp}
+====
+*Immunditiis domum purgavit*: _Limpió la casa de
+suciedades_. +
+*Nos curā liberavit*: _Nos libró de cuidado_.
+====
+
+*§287*. Ablativo con Adjetivos. -- Llevan un complemento
+en ablativo los adjetivos que expresan _abundancia_ y _privación_:
+*dives*, _rico en_; *affluens*, _abundante en_; *refertus*, _lleno de_;
+*agens*, _pobre de_; *orbus*, _privado de_.
+
+.{zwsp}
+====
+*Matre orbus*: _Huérfano de madre_. +
+*Dives agris*: _Rico en tierras_.
+====
+
+Llevan también ablativo los adjetivos: *dignus*, _digno de_,
+e *indignus*, _indigno de_.
+
+.{zwsp}
+====
+*Veniā indignus*: _Indigno de perdón_.
+====
+
+*§288*. Ablativo de Limitación. -- El ablativo se usa a
+veces para limitar el sentido de un adjetivo:
+
+.{zwsp}
+====
+*Corpore imbecillus est, animō validus*: _Es débil de
+cuerpo, fuerte de espíritu_.
+====
+
+*§289*. Ablativo, Complemento de un Comparativo. --
+En latín el segundo término de una comparación se pone
+en ablativo.
+
+.{zwsp}
+====
+*Doctior fratre*: _Más docto que su hermano_.
+====
+
+Observación. -- En lugar de esta construcción puede
+ponerse el segundo término de la comparación en el mismo
+caso que el primero precedido de la partícula *quam*.
+
+.{zwsp}
+====
+*Doctior quam frater*.
+====
+
+*§290*. Ablativo de Descripción. -- El complemento indicando
+la cualidad de una persona u objeto puede ponerse en ablativo.
+
+.{zwsp}
+====
+*Caesar vir summā audaciā erat*: _César era un hombre
+de gran audacia_.
+====
+
+*§291*. Ablativo de Materia. -- El complemento indicando
+la materia de que está hecho un objeto se pone en ablativo
+con la preposición *ex*:
+
+.{zwsp}
+====
+*Vas ex auro*: _Vasija de oro_.
+====
+
+#### IV. Genitivo
+
+*§292*. Genitivo Complemento de los Substantivos. --
+El complemento de un substantivo se pone en genitivo.
+
+.{zwsp}
+====
+*Amor Dei*: _Amor de Dios_. +
+*Pater Bruti*: _El padre de Bruto_. +
+*Magna pars militum*: _Gran parte de los soldados_. +
+*Honos consulatus*: _El honor del consulado_. +
+*Vir summae sapientiae*: _Varón de altísima sabiduria_.
+====
+
+*§293*. Genitivo Complemento de Adjetivos. -- Cierto número
+de adjetivos llevan un complemento en genitivo: *particeps*,
+_partícipe_; *expers*, _privado de_; *cupidus*, _deseoso de_;
+*peritus*, _entendido en_, etc.
+
+.{zwsp}
+====
+*Homo est animal rationis particeps*: _El hombre es
+un animal dotado de razón_. +
+*Cupidus gloriae*: _Deseoso de gloria_. +
+*Peritus artis militaris*: _Entendido en el arte militar_.
+====
+
+*§294*. Genitivo Complemento de Superlativo. -- El
+complemento del superlativo se pone generalmente en genitivo.
+
+.{zwsp}
+====
+*Altissima arborum*: _El más alto de los árboles_.
+====
+
+*§295*. Genitivo Complemento de Verbos. -- Algunos
+verbos llevan su complemento en genitivo. Tales son los
+que significan: _acusar de_, *accusare*, *insimulare*; condenar por,
+*damnare*; _absolver de_, *absolvere*.
+
+.{zwsp}
+====
+*Antonius accusatus est maiestatis*: _Antonio fué
+acusado de alta traición_. +
+*Socrates damnatus est impietatis*: _Sócrates fué
+condenado por impiedad_.
+====
+
+*§296*. Genitivo Posesivo con el Verbo *sum*. -- El verbo
+*sum* acompañado de un genitivo indica una idea de posesión:
+
+.{zwsp}
+====
+*Haec domus patris mei est*: _Esta casa es de mi
+padre_.
+====
+
+### Clasificación de las oraciones subordinadas
+
+Las oraciones subordinadas se clasifican, por el papel
+que desempeñan respecto a la oración principal, en las
+siguientes clases:
+
+*§297*. I. Oraciones Completivas. -- Completan el sentido
+del verbo principal, a la manera de un complement directo.
+
+.{zwsp}
+====
+*Diviciacus dixit se scire illud verum esse*: _Divicíaco
+dijo saber que aquello era verdad_ (*se scire
+illud verum esse* es complemento de *dixit*, y a su
+vez *illud verum esse* es complemento directo de *scire*). +
+*Quid faciam nescio*: _No sé qué hacer_ (*quid faciam*,
+complemento directo de *nescio*).
+====
+
+*§298*. II. Oraciones de Relativo. -- Determinan el
+sentido de un substantivo de la oración principal, a la manera
+de un adjetivo.
+
+.{zwsp}
+====
+*Duas vias occupavit, quae ad portum ferebant*:
+_Ocupó los dos caminos que conducían al puerto_
+(*quae ad portum ferebant, determina *duas vias*).
+====
+
+*§299*. III. Oraciones Circunstaciales. -- Completan
+el sentido de la oración principal a la manera de un complemento
+circunstancial. Van introducidas por las conjunciones
+subordinativas y llevan el verbo en indicativo o subjuntivo,
+según los casos. Las principales clases son:
+
+*§300*. 1ra Finales. -- Indicando una circunstancia de
+propósito o fin (verbo en subjuntivo); conjunciones: *ut*, _para que_;
+*ne*, _para que no_.
+
+.{zwsp}
+====
+*Edimus ut vivamus*: _Comemos para vivir_. +
+*Hoc tibi dico ne ignores*: _Te lo digo para que no
+lo ignores_.
+====
+
+*§301*. Observaciones. -- Además de las oraciones que
+son introducidas por conjunciones finales existen en latín
+otros procedimientos para indicar la finalidad de una acción.
+Así las construcciones de supino en *-um*, las de gerundio o
+gerundivo con *causā* o *gratiā* y las de relativo finales.
+
+.{zwsp}
+====
+*Venio cenatum*: _Vengo para cenar_. +
+*Hoc facit discendi causā*: _Lo hace para aprender_. +
+*Servum eis misit, qui eos duceret*: _Les envió un
+esclavo para que les guiase_.
+====
+
+*§302*. 2da Consecutivas. -- Indican el resultado o consecuencia
+de lo que se ha dicho en la oración principal (verbo
+en subjuntivo).
+
+Conjunciones: +
+*ut*, _que_; *ut non*, _que no_. +
+*quominus*, _de modo que no_.
+
+.{zwsp}
+====
+*Tam latum est mare, ut transire non possimus*:
+_Tan ancho es el mar que no podemos atravesarlo_.
+====
+
+*§303.* 3ra Temporales. -- Indican una circunstancia de
+tiempo respecto a la oración principal (verbo en indicativo).
+
+Conjunciones: +
+*cum*, *ubi*, *ut*, _cuando_ +
+*dum*, *donec*, *quoad*, _mientras_, _hasta que_ +
+*antequam*, *priusquam*, _antes que_ +
+*postquam*, _después que_ +
+*simul*, *simulac*, _tan pronto como_ +
+*quotiens*, _tantas veces como_
+
+.{zwsp}
+====
+*Postquam equitatus noster in conspectum
+venit, hostes terga verterunt*: _Después que apareció
+nuestra caballería, los enemigos volvieron la
+espalda_. +
+*Dum haec geruntur, qui erant in agris discesserunt*:
+_Mientras estas cosas ocurren, los que estaban
+en los campos se marcharon_.
+====
+
+*§304*. Observación. -- Esta relación de tiempo, puede
+expresarse también por un ablativo absoluto.
+
+.{zwsp}
+====
+*Tarquinio regnante Pythagoras in Italiam venit*:
+_Cuando reinaba Tarquinio, Pitágoras llego a Italia_.
+====
+
+. Temporales
+. Causales
+. Condicionales
+- Concesivas
 
 
 
@@ -623,7 +894,19 @@ e. De tiempo:
 
 
 
-*§ *. --
+
+
+
+
+
+
+
+
+
+
+
+
+*§*. --
 
 .{zwsp}
 ====
