@@ -12,7 +12,7 @@ Eduardo Valentí Fiol (†)
 :tip-caption: Tipp
 :warning-caption: Warnung
 :appendix-caption: Anhang
-:example-caption: Beispiel
+:example-caption: Ejemplo
 :figure-caption: Abbildung
 :table-caption: Tabelle
 

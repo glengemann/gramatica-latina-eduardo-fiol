@@ -2,13 +2,13 @@
 
 == La Oración y sus partes
 
-*§254* La parte central más importante de la oración
+*§254.* La parte central y más importante de la oración
 es el verbo. Un verbo solo, puede constituir una oración.
 
 .{zwsp}
 ====
-. *Pluit*: _llueve_.
-. *Esurio*: _Tengo hambre_.
+*Pluit*: _llueve_. +
+*Esurio*: _Tengo hambre_.
 ====
 
 Generalmente el verbo va acompañado de un sujeto expreso.
@@ -18,7 +18,7 @@ Generalmente el verbo va acompañado de un sujeto expreso.
 *Gaius scribit*: _Cayo escribe_.
 ====
 
-*§255* Cuando el verbo de la oración es *sum* con valor
+*§255.* Cuando el verbo de la oración es *sum* con valor
 de verbo atributivo, el atributo, que determina o califica al
 sujeto, se pone en el mismo caso que éste.
 
@@ -31,39 +31,39 @@ En estos casos la función del verbo *sum* consiste en referir
 el atributo al sujeto, por lo que recibe la denominación
 de _verbo copulativo_ o _cópula_.
 
-*§256* Además del verbo *sum* hay en latín ciertos verbos
+*§256.* Además del verbo *sum* hay en latín ciertos verbos
 pasivos que refieren un atributo al sujeto y son llamados,
 por tanto, copulativos, como *vocor*, _soy llamado_; *creor*, _soy nombrado_;
 *iudicor*, _soy considerado_; *fio*, _soy hecho_.
 
-Ejemplos:
-
-. *Numa creatus est rex*: _Numa fué nombrado rey_
+.{zwsp}
+====
+*Numa creatus est rex*: _Numa fué nombrado rey_
 (*rex* _atributo, en nominativo, concordando con_
-Numa).
+Numa). +
+*Dies fit nox*: _El día se hace noche_.
+====
 
-. *Dies fit nox*: _El día se hace noche_.
-
-*§257* Cuando estos verbos están en la voz activa, el
+*§257.* Cuando estos verbos están en la voz activa, el
 atributo se refiere al complemento directo y está, como éste,
 en Acusativo.
 
-Ejemplos:
+.{zwsp}
+====
+*Fac nos beatos*: _Haznos felices_ (*beatos*, atributo de nos). +
+*Romani Numan regem creaverunt*: _Los romanos nombraron rey a Numa_.
+====
 
-. *Fac nos beatos*: _Haznos felices_ (*beatos*, atributo de nos).
-
-. *Romani Numan regem creaverunt*: _Los romanos nombraron rey a Numa_.
-
-*§258 Aposición*. Cuando un substantivo se refiere a
+*§258.* *Aposición.* -- Cuando un substantivo se refiere a
 otro para dar su denominación o explicar alguna parte de
 su significado, se dice que está en aposición con él.
 
-Ejemplos:
-
-. *Marius consul triumphavit*: _El cónsul Mario obtuvo el triunfo_.
-
-. *Urbs Roma, caput Italiae, ad Tiberim sita est*: _La ciudad de Roma,
+.{zwsp}
+====
+*Marius consul triumphavit*: _El cónsul Mario obtuvo el triunfo_.
+*Urbs Roma, caput Italiae, ad Tiberim sita est*: _La ciudad de Roma,
 capital de Italia, está situada junto al Tiber_.
+====
 
 Obsérve cómo en este ejemplo *caput Italiae* es aposición
 a *urbs Roma*, y de estas dos últimas palabras, *Roma* es,
@@ -72,20 +72,21 @@ a su vez, aposición de *urbs*.
 La aposición puede suprimirse sin que se altere el sentido
 general de la oración.
 
-Ejemplos:
-
-. *Marius triumphavit*. -- *Urbs ad Tiberim sita est.*
+.{zwsp}
+====
+*Marius triumphavit*. -- *Urbs ad Tiberim sita est.*
+====
 
 Si se suprime el atributo, en cambio, la frase queda sin
 sentido.
 
 === Reglas de concordancia
 
-*§259 Concordancia del verbo con el sujeto*
+*§259. Concordancia del verbo con el sujeto.* --
 El verbo concuerda con su sujeto en número y persona,
 siguiendo las mismas reglas que el castellano:
 
-[NOTE]
+.{zwsp}
 ====
 *Hostis fugit*, _el enemigo huye_. +
 *Cicero et Terentia valent*, _Cicerón y Terencia están bien_. +
@@ -97,7 +98,7 @@ _si tú y Tulia estáis bien, yo y Cicerón estamos bien_.
   equivale a *vos*; *valemus* en primera persona plural, porque
   *ego et Cicero* equivale a *nos*.)
 
-*§260 Del Atributo con el Sujeto.* El atributo que
+*§260. Del Atributo con el Sujeto.* -- El atributo que
 se refiere al sujeto se pone en el mismo caso que éste, esto
 es, generalmente en nominativo; el referido al complemento
 directo se pone en acusativo. Siempre que es posible el atributo
@@ -124,26 +125,32 @@ en neutro.
 fueron incendiados_.
 ====
 
-*§261 De la Aposición.* La aposición concuerda en
+*§261. De la Aposición.* -- La aposición concuerda en
 caso con el nombre al cual se refiere.
 
-NOTE: *Athenae, caput Graeciae, antiqua est urbs*: _Atenas,
+.{zwsp}
+====
+*Athenae, caput Graeciae, antiqua est urbs*: _Atenas,
 capital de Grecia, es una ciudad antigua_.
+====
 
 (*Athenae*, en nominativo; *caput* también. Obsérvese, en
   cambio, que *Athenae*, es plural femenino, y *caput* singular
   neutro).
 
-NOTE: *Cicero fratrem Quintum monet*: _Cicerón aconseja a
+.{zwsp}
+====
+*Cicero fratrem Quintum monet*: _Cicerón aconseja a
 su hermano Quinto_.
+====
 
-*§262 Del Adjetivo Calificativo*. El adjetivo calificativo
+*§262. Del Adjetivo Calificativo*. -- El adjetivo calificativo
 concuerda en género, número y caso con el nombre
 que se refiere.
 
 .{zwsp}
 ====
-*Bona mater*: _Una buena madre_.
+*Bona mater*: _Una buena madre_. +
 *Banus pater*: _Un buen padre_.
 ====
 
@@ -155,7 +162,7 @@ con el más próximo.
 *Bonus pater et mater*: _Un buen padre y una buena madre_
 ====
 
-*§263 Del Relativo con su Atecedente*. El relativo
+*§263. Del Relativo con su Atecedente.* -- El relativo
 concuerda con su antecedente en género y número; en cuanto
 al caso, toma el que le corresponde según la función que
 desempeña en su oración.
@@ -174,7 +181,7 @@ realidad, expresada por una afirmación o negación.
 
 .{zwsp}
 ====
-*Caesar scribit*: _César escribe_.
+*Caesar scribit*: _César escribe_. +
 *Non legitus*: _No leemos_.
 ====
 
@@ -183,10 +190,10 @@ orden o prohibición, deseo, condición, concesión y deliberación.
 
 .{zwsp}
 ====
-*Eamus*: _Vayámonos_ (orden).
-*Ne legeris*: _No leas_ (prohibición).
-*Utinam vivas*: _¡Ojalá vivas!_ (deseo).
-*Libenter veniat*: _Que venga de buena gana_ (concesión).
+*Eamus*: _Vayámonos_ (orden). +
+*Ne legeris*: _No leas_ (prohibición). +
+*Utinam vivas*: _¡Ojalá vivas!_ (deseo). +
+*Libenter veniat*: _Que venga de buena gana_ (concesión). +
 *Sit dives, at non est felix*: _Supongamos que sea rico,
 pero no es feliz_ (suposición).
 ====
@@ -198,7 +205,7 @@ en el tiempo a venir.
 
 .{zwsp}
 ====
-*Scribe*: _Escribe_.
+*Scribe*: _Escribe_. +
 *Alteri saepe ignoscito, nunquam tibi*: _Perdona con
 frecuencia a otro, nunca a ti mismo_.
 ====
@@ -208,7 +215,7 @@ expresa por medio del presente de subjuntivo.
 
 .{zwsp}
 ====
-*Patriam amemus*: _Amemos la patria_.
+*Patriam amemus*: _Amemos la patria_. +
 *Abeat*: _Que se vaya_.
 ====
 
@@ -217,8 +224,8 @@ por *ne* y el presente o perfecto de subjuntivo.
 
 .{zwsp}
 ====
-*Ne proficiscamur*: _No nos marchemos_.
-*Ne proficiscatur*: _Que no se marche_.
+*Ne proficiscamur*: _No nos marchemos_. +
+*Ne proficiscatur*: _Que no se marche_. +
 *Hoc ne feceris*: _No hagas eso_.
 ====
 
@@ -284,8 +291,8 @@ y caso con él.
 
 .{zwsp}
 ====
-*Cupidus discendi*: _Deseoso de aprender_.
-*Cupidus litterarum discendarum*: _Deseoso de aprender las letras_.
+*Cupidus discendi*: _Deseoso de aprender_. +
+*Cupidus litterarum discendarum*: _Deseoso de aprender las letras_. +
 (en vez de: *Cupidus discendi litteras*).
 ====
 
@@ -307,7 +314,7 @@ un substantivo, en ablativo también, que es su sujeto.
 .{zwsp}
 ====
 *Tiberio imperante, Ihesus cruce adfixus est*: _Siendo
-emperador Tiberio, Jesús fué clavado en cruz_.
+emperador Tiberio, Jesús fué clavado en cruz_. +
 *Hostibus victus, milites cessant*: _Ya que ha sido
 vencido el enemigo, los soldados están sin hacer nada_.
 ====
@@ -319,8 +326,8 @@ en qué momento tiene lugar una acción, se pone en ablativo.
 
 .{zwsp}
 ====
-*Prima luce surgit*: _Se levanta a la aurora_.
-*Aestate*: _En verano_.
+*Prima luce surgit*: _Se levanta a la aurora_. +
+*Aestate*: _En verano_. +
 *Hieme*: _En invierno_.
 ====
 
@@ -355,7 +362,7 @@ la 1ra o 2da declinación se pone en locativo (*-ae* para la 1ra declinación
 
 .{zwsp}
 ====
-*Habitat Romae*: _Habita en Roma_.
+*Habitat Romae*: _Habita en Roma_. +
 *Sami vivit*: _Vive en Samos_.
 ====
 
@@ -375,7 +382,7 @@ y *rus*, se ponen en acusativo sin preposición.
 
 .{zwsp}
 ====
-*Romam eo*: _Voy a Roma_.
+*Romam eo*: _Voy a Roma_. +
 *Domum ibo*: _Iré a casa_.
 ====
 
@@ -408,7 +415,7 @@ medida de espacio se construye generalmente en acusativo.
 
 .{zwsp}
 ====
-*Fossa ducentos pedes longa*: _Una fosa larga de doscientos pies_.
+*Fossa ducentos pedes longa*: _Una fosa larga de doscientos pies_. +
 *Tria milia passuum progeditur*: _Avanzó tres millas_.
 ====
 
@@ -432,7 +439,7 @@ de tiempo.
 .{zwsp}
 ====
 *Tria milia passuum progressus est*: _Avanzó tres
-millas_.
+millas_. +
 *Duos annos mansit*: _Se quedó dos años_.
 ====
 
@@ -441,7 +448,7 @@ millas_.
 +
 .{zwsp}
 ====
-*Cum in Italiam redieris*: _Cuando vuelvas a Italia_.
+*Cum in Italiam redieris*: _Cuando vuelvas a Italia_. +
 *Abi domum*: _Vete a casa_.
 ====
 
@@ -461,7 +468,7 @@ _esconder_ (a alguien algo) y *rogare* _preguntar_.
 
 .{zwsp}
 ====
-*Celavit te periculum*: _Te disimuló el peligro_.
+*Celavit te periculum*: _Te disimuló el peligro_. +
 *Ciceronem sententiam rogavit*: _Preguntó a Cicerón
 su parecer_. (Interrogó a Cicerón pidiéndole
 su opinión.)
@@ -486,7 +493,7 @@ verbos instransitivos.
 *Invidet mihi*: _Me envidia_.
 ====
 
-*§283.* Dativo con el Verbo sum*. --
+*§283.* Dativo con el Verbo *sum*. --
 
 a. Posesivo. Construído
 con el verbo *sum* el dativo expresa una idea de posesión.
@@ -525,7 +532,7 @@ etcétera.
 +
 .{zwsp}
 ====
-*Utilis civitati*: _Útil al Estado_.
+*Utilis civitati*: _Útil al Estado_. +
 *Ager bonus pecori*: _Campo bueno para el ganado_.
 ====
 
@@ -821,9 +828,10 @@ esclavo para que les guiase_.
 de lo que se ha dicho en la oración principal (verbo
 en subjuntivo).
 
-Conjunciones: +
-*ut*, _que_; *ut non*, _que no_. +
-*quominus*, _de modo que no_.
+*Conjunciones*:
+
+. *ut*, _que_; *ut non*, _que no_. +
+. *quominus*, _de modo que no_.
 
 .{zwsp}
 ====
@@ -834,13 +842,14 @@ _Tan ancho es el mar que no podemos atravesarlo_.
 *§303.* 3ra Temporales. -- Indican una circunstancia de
 tiempo respecto a la oración principal (verbo en indicativo).
 
-Conjunciones: +
-*cum*, *ubi*, *ut*, _cuando_ +
-*dum*, *donec*, *quoad*, _mientras_, _hasta que_ +
-*antequam*, *priusquam*, _antes que_ +
-*postquam*, _después que_ +
-*simul*, *simulac*, _tan pronto como_ +
-*quotiens*, _tantas veces como_
+*Conjunciones*:
+
+. *cum*, *ubi*, *ut*, _cuando_ +
+. *dum*, *donec*, *quoad*, _mientras_, _hasta que_ +
+. *antequam*, *priusquam*, _antes que_ +
+. *postquam*, _después que_ +
+. *simul*, *simulac*, _tan pronto como_ +
+. *quotiens*, _tantas veces como_
 
 .{zwsp}
 ====
@@ -862,53 +871,47 @@ expresarse también por un ablativo absoluto.
 _Cuando reinaba Tarquinio, Pitágoras llego a Italia_.
 ====
 
-. Temporales
-. Causales
-. Condicionales
-- Concesivas
+*§305*. 4ta Causales. -- Indican la causa de lo que se
+expresa en la oración principal. (Verbo en indicativo, o subjuntivo.)
 
+*Conjunciones*:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*§*. --
+. *quod*, *quia*, *quoniam*, _porque_, _ya que_ +
+. *cum*, _como sea que_
 
 .{zwsp}
 ====
-**: __.
+*Quoniam id cupis, proficiscar*: _Ya que lo deseas,
+partiré._
+====
+
+*§306*. 5ta Condicionales. -- Indican la condición que
+precisa para que se verifique lo expresado en la oración principal.
+(Verbo en indicativo o subjuntivo.)
+
+*Conjunciones*:
+
+. *si*, _si_; *si non*, _si no_; *nisi*, _a menos que_; +
+. *seu... seu*, _sea... sea_
+. *seu... seu*, _sea... sea_
+
+.{zwsp}
+====
+*Si peccat poenem meret*: _Si peca merece costigo_.
+====
+
+*§307*. 5ta Concesivas. -- Admiten una afirmación que
+parece oponerse a lo que se dice en la oración principal, para
+afirmar ésta con más fuerza. (Verbo en indicativo o subjuntivo.)
+
+*Conjunciones*:
+
+. *etsi*, *licet*, *quamquam*, *quamvis*, _aunque..._
+
+.{zwsp}
+====
+*Miltiades, etsi proditionis est accusatus, tamen
+alia fuit causa damnationis*: _Aunque Milciades fué
+acusado de traición, la causa de su codena fué
+otra_.
 ====
