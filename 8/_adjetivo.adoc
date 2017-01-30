@@ -62,3 +62,48 @@ para el fem. y otra en *-e* para el neutro. Ejemplo: *acer*,
 *acris*, *acre*, _agudo_.
 
 *§*. --
+
+=== Grados de significación de los adjetivos
+
+*§63*. Una cualidad puede ser poseída en grado mayor o
+menor. Y comparando dos o más objetos dotados de la misma
+cualidad podemos notar diferencias entre ellos. Así decimos:
+
+_los Alpes son más altos que los Pirineas;_
+
+o, refiriendonos a todos los objetos de una misma especie:
+
+_el Himalaya es la más alta de las cordilleras._
+
+También podemos decir:
+
+_esta rosa es bellísima_, +
+_el agua de esta fuente es muy fresca_,
+
+con lo cual afirmamos que un objeto posee una cualidad en
+muy alto grado.
+
+Por lo tanto, podemos distinguir en el adjetivo tres grados
+de significación:
+
+*Positivo*, cuado el adjetivo se limita a calificar al
+substantivo: _un árbol alto_.
+
+*Comparativo*, cuando se comparan dos objetos que
+poseen la misma cualidad y se establecen diferencias entre
+ellos:
+
+_este pino es más alto que aquél_ (conparativo de superioridad)
+
+_este pino es menos alto que aquél_ (comparativo de inferiordad)
+
+_este pino es tan alto como aquél_ (comparativo de igualdad)
+
+*Superlativo*, cuando se dice que un objeto que tiene
+una cualidad en muy alto grado (superlativo absoluto),
+o en grado superior a todos los demás de su especie
+(superlativo relativo):
+
+_un pino altísimo, o muy alto_
+
+_el más alto de los pinos_.
