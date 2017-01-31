@@ -107,3 +107,36 @@ o en grado superior a todos los demás de su especie
 _un pino altísimo, o muy alto_
 
 _el más alto de los pinos_.
+
+*§64*. Formación del Comparativo Latino. -- El latín
+forma el comparativo de los adjetivos substituyendo la desinencia
+del Genit. sing. por las terminaciones *-ior*, (masc. y fem.),
+*-ius* (neutro). Así pues, al ponerse en grado comparativo,
+todos los adjetivos se convierten en adjetivos de dos
+terminaciones; se declinan según la 3ra decl. y su Genit. sing.
+es en *-iōris*.
+
+.{zwsp}
+====
+[options="header", cols=","]
+|===
+^| Positivo ^| Comparativo
+
+|*altus*, _alto_, Gen. *alt-i* +
+*fortis*, _valeroso_, Gen. *fort-is* +
+*prudens*, _prudente_, Gen. *pru-dent-is*
+
+|*alt-ior, alt-ius*, _más alto_, Gen. *altiōris* +
+*fort-ior, fort-ius*, _más valeroso_, Gen. *fortiōris* +
+*prudent-ior, prudent-ius*, _más prudente_, Gen. *prudentiōris*
+|===
+====
+
+Esta formación es la del comparativo de superioridad.
+Los de igualdad e inferioridad se forman en latín, como en
+castellano, por medio de adverbios:
+
+*tam altus*, _tan alto_; *tam fortis*, _tan valeroso_; *tam prudens*, _tan prudente_
+
+*minus altus*, _menos alto_; *minus fortis*, _menos valeroso_;
+*minus pridens*, _menos prudente_;
