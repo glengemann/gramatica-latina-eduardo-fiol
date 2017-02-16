@@ -140,3 +140,25 @@ castellano, por medio de adverbios:
 
 *minus altus*, _menos alto_; *minus fortis*, _menos valeroso_;
 *minus pridens*, _menos prudente_;
+
+*§65*. Declinación del Comparativo. -- Sigue totalmente
+la declinación de los temas en consonante de la 3ra declinación
+(Abl. sing. *-ĕ*; Gen. pl. *-um*; Nom. Voc. Ac. pl. n. *-ă*):
+
+.{zwsp}
+[cols="^,^,^,^,^,^,^"]
+[cols="^,^,^,^,^",]
+|===
+.2+| 2+h| Singular 2+h| Plural
+h| Masc. Fem. h| Netro h| Masc. Fem. h| Neutro
+s| NOMINATIVO .2+^.^| altior .3+^.^| altius .3+^.^| altiōrēs .3+^.^| altiōră
+s| VOCATIVO
+s| ACUSATIVO | altiorem
+s| GENITIVO 2+| altiōrĭs 2+| altiōrum
+s| DATIVO 2+| altiōri 2.2+^.^| altiōrĭbus
+s| ABLATIVO 2+| altiōrĕ
+|===
+
+*§66*. Formaciones Particulares del Comparativo. --
+Los adjetivos terminados en *-dĭcus*, *-fĭcus* y *-vŏlus* forman
+su comparativo en *-entior*.
