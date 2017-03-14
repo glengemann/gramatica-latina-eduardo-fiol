@@ -161,4 +161,42 @@ s| ABLATIVO 2+| altiōrĕ
 
 *§66*. Formaciones Particulares del Comparativo. --
 Los adjetivos terminados en *-dĭcus*, *-fĭcus* y *-vŏlus* forman
-su comparativo en *-entior*.
+su comparativo en *-entior*:
+
+*maledĭcus*, _maldiciente_, comp. *maledicentior*, *ius* +
+*benefĭcus*, _benéfico_, comp. *beneficentior*, *ius* +
+*benevŏlus*, _benévolo_, comp. *benevolentior*, *ius*
+
+*Maledicentior* y *benevolentior* son en realidad comparativos
+de *maledicens* y *benevolens*; de aquí su forma.
+
+*§67*. Régimen del Comparativo. -- Para traducir la partícula
+_que_, que en castellano antecede al segundo término
+de una comparación, el latín utiliza dos procedimientos:
+
+. Traduciendo la partícula _que_ por _quam_ y poniendo
+el 2do término en el mismo caso que el primero:
++
+.{zwsp}
+====
+_César fué más afortunado que Pompeyo_: *Caesar felicior
+fuit quam Pompeius*.
+====
+
+. Poniendo el segundo término en Ablativo, sin traducir
+la partícula _que_:
++
+.{zwsp}
+====
+Caesar felicior fuit Pompeio.
+====
+
+*§68*. Valor Intensivo del Comparativo.-- A veces el comparativo
+latino no se usa para comparar dos objetos sino con un sentido
+equivalente al del castellano _bastante_ o _demasiado_ seguido de un
+adjetivo:
+
+.{zwsp}
+====
+*timidior est*: _es demasiado tímido_.
+====
