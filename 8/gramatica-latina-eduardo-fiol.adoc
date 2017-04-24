@@ -36,6 +36,15 @@ include::3ra_declinacion.adoc[]
 
 include::_adjetivo.adoc[]
 
+// El verbo. generalidades
+//    El verbo sum
+//    Primera Conjugación
+//    Segunda Conjugación
+//    Tercera Conjugación 1er tipo
+//    Tercera Conjugación 2do tipo (conjugación mixta)
+//    Cuarta Conjugación
+include::_verbo.adoc[]
+
 include::_adverbio.adoc[]
 
 include::_conjuncion.adoc[]

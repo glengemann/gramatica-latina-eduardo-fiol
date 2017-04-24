@@ -1,0 +1,65 @@
+= El verbo
+
+*§143.* Verbos Transitivos e Intransitivos.-- Los Verbos
+latinos pueden ser, como los castellanos, transitivos o
+intransitivos.
+
+Verbo _transitivo_ es el que va acompañado de un complemento
+directo en acusativo; en otras palabras, es aquél cuya
+acción recae inmediatamente sobre una persona o cosa que
+es su término o complemento:
+
+.{zwsp}
+====
+_Amo a mis padres_: *parentes diligo*. +
+_El campesino cultiva los campos_: *agricola colit agros*.
+====
+
+Verbo _intransitivo_ es el que no puede ir acompañado de
+un complemento directo en acusativo; generalmente indica
+una acción que no sale del sujeto para recaer sobre otra persona
+o cosa:
+
+.{zwsp}
+====
+_El niño corre_: *puer currit*. +
+_Me perjudica_: *mihi nocet*.
+====
+
+Nótese que el castellano y el latín no siempre coinciden
+en el uso transitivo o intransitivo de los verbos, sino que
+verbos transitivos en latín son intransitivos en castellano y
+viceversa:
+
+.{zwsp}
+====
+*Fugere mortem*: _huir de la muerte_. +
+*Ignoscere alicui*: _perdonar a alguien_.
+====
+
+*§144.* Voces.-- El verbo latino distingue las tres voces
+siguientes, las dos primeras comunes al castellano:
+
+. _Voz activa_, en la que el sujeto es el que realiza la
+acción expresada por el verbo:
++
+.{zwsp}
+====
+_Cicerón salvó la ciudad_: *Cicero civitatem servavit*.
+====
+
+. _Voz pasiva_, en la que el sujeto es el que sufre o
+recibe la acción expresada por el verbo:
++
+.{zwsp}
+====
+_La ciudad fué salvada por Cicerón_: *Civitas a Cicerone servata est*.
+====
+
+. _Voz deponente_, que comprende una serie de verbos
+que sólo tienen formas pasivas, pero con sentido activo:
+
+.{zwsp}
+====
+*Deos veneramur*: _veneramos a los dioses_. +
+====
