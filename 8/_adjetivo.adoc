@@ -140,3 +140,63 @@ castellano, por medio de adverbios:
 
 *minus altus*, _menos alto_; *minus fortis*, _menos valeroso_;
 *minus pridens*, _menos prudente_;
+
+*§65*. Declinación del Comparativo. -- Sigue totalmente
+la declinación de los temas en consonante de la 3ra declinación
+(Abl. sing. *-ĕ*; Gen. pl. *-um*; Nom. Voc. Ac. pl. n. *-ă*):
+
+.{zwsp}
+[cols="^,^,^,^,^,^,^"]
+[cols="^,^,^,^,^",]
+|===
+.2+| 2+h| Singular 2+h| Plural
+h| Masc. Fem. h| Netro h| Masc. Fem. h| Neutro
+s| NOMINATIVO .2+^.^| altior .3+^.^| altius .3+^.^| altiōrēs .3+^.^| altiōră
+s| VOCATIVO
+s| ACUSATIVO | altiorem
+s| GENITIVO 2+| altiōrĭs 2+| altiōrum
+s| DATIVO 2+| altiōri 2.2+^.^| altiōrĭbus
+s| ABLATIVO 2+| altiōrĕ
+|===
+
+*§66*. Formaciones Particulares del Comparativo. --
+Los adjetivos terminados en *-dĭcus*, *-fĭcus* y *-vŏlus* forman
+su comparativo en *-entior*:
+
+*maledĭcus*, _maldiciente_, comp. *maledicentior*, *ius* +
+*benefĭcus*, _benéfico_, comp. *beneficentior*, *ius* +
+*benevŏlus*, _benévolo_, comp. *benevolentior*, *ius*
+
+*Maledicentior* y *benevolentior* son en realidad comparativos
+de *maledicens* y *benevolens*; de aquí su forma.
+
+*§67*. Régimen del Comparativo. -- Para traducir la partícula
+_que_, que en castellano antecede al segundo término
+de una comparación, el latín utiliza dos procedimientos:
+
+. Traduciendo la partícula _que_ por _quam_ y poniendo
+el 2do término en el mismo caso que el primero:
++
+.{zwsp}
+====
+_César fué más afortunado que Pompeyo_: *Caesar felicior
+fuit quam Pompeius*.
+====
+
+. Poniendo el segundo término en Ablativo, sin traducir
+la partícula _que_:
++
+.{zwsp}
+====
+Caesar felicior fuit Pompeio.
+====
+
+*§68*. Valor Intensivo del Comparativo.-- A veces el comparativo
+latino no se usa para comparar dos objetos sino con un sentido
+equivalente al del castellano _bastante_ o _demasiado_ seguido de un
+adjetivo:
+
+.{zwsp}
+====
+*timidior est*: _es demasiado tímido_.
+====

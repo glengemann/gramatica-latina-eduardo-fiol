@@ -1,0 +1,59 @@
+= Los Pronombres
+
+*§90.* Clasificación.-- Los pronombres latinos se clasifican
+en:
+
+. personales
+. posesivos
+. demostrativos
+. relativos
+. interrogativos
+. indefinidos
+
+A excepción de los personales, todos los demás son susceptibles
+de ser usados también como adjetivos.
+
+*§91.* Declinación Pronominal.-- A excepción de los
+personales y posesivos, la declinación de los demás pronombres
+se caracteriza por hacer el Gen. sing. en *-īus* y el Dativo
+singular en *-ī*, comunes a los tres géneros.
+
+== Pronombres personales
+
+*§92.* Pronombres Personales.-- 1ra persona (persona
+que habla) sing.: *ego*, _yo_; pl.: *nos*, _nosotros_.
+
+2da persona (con quien se habla): sing.: *tu*, _tú_; pl.: *vos*,
+_vosotros_.
+
+3ra persona (de quien se habla). El latín no tiene propiamente
+un pronombre de 3ra persona y lo suple por medio de
+los demostrativos *is*, *ea*, *id* y *ille*, *illa*, *illud* (véase §§ 104,
+106). Tiene en cambio un pronombre reflexivo de 3ra persona,
+*se*, _se_, _sí_.
+
+*§93.* Declinación.
+
+[cols="^,^,^,^"]
+|===
+.2+| 3+h| Singular
+| 1ra persona | 3da persona | 3ra persona (reflex.)
+s| NOMINATIVO | ego | tū | --
+s| VOCATIVO | -- | tū | --
+s| ACUSATIVO | mē | tē | sē
+s| GENITIVO | meī | tuī | suī
+s| DATIVO | mĭhĭ | tĭbĭ |sĭbĭ
+s| ABLATIVO | mē | tē | sē
+|===
+
+[cols="^,^,^,^"]
+|===
+.2+| 3+h| Plural
+| 1ra persona | 3da persona | 3ra persona (reflex.)
+s| NOMINATIVO | nōs | vōs | --
+s| VOCATIVO | -- | vōs | --
+s| ACUSATIVO | nōs | vōs | sē
+s| GENITIVO | nostrum, nostrī | vestrum, vestrī | suī
+s| DATIVO | nōbis | vōbis | sĭbĭ
+s| ABLATIVO | nōbis | vōbis | sē
+|===
